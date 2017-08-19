@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:24Z">
+  <matches>
+    <match coverage="2" id="c67be9f7-725e-43f1-a44b-d5478a434cf9" period="" scheduled="2016-11-27T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="24">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="GLO" id="7ba8abe2-e900-4489-b31c-ccb4d1801605" name="Gloucester" score="20">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="d90173ee-af2d-4eca-b23e-ae36e9f38b3d" latitude="51.603506" longitude="-0.223642" name="Allianz Park"/>
+    </match>
+    <match coverage="2" id="12a524e0-2304-49c5-94c6-1c84f2f99d28" period="" scheduled="2016-11-27T13:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2017-05-31T21:59:59Z" id="39355ab3-a57c-4726-bc7b-7a3bca4dc84e" name="Pro D2 16/17" start="2016-08-24T22:00:00Z" year="2016"/>
+      <home alias="OYO" id="fb2b3fa4-1e8e-4b92-914a-7e6cefbe2845" name="Oyonnax" score="52">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="RUG" id="e74d10c6-6ff5-4974-a9f4-302c4b98bb52" name="Rugby Club Vannes" score="21">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="6000" city="Oyonnax" country="France" id="5ac2d96e-c4ad-4492-b0ee-35c2fa6cb69e" latitude="46.253633" longitude="5.644844" name="Stade Charles-Mathon"/>
+    </match>
+    <match coverage="2" id="ba1a94e7-a2ee-4554-ad36-3fa0cd02c45f" period="" scheduled="2016-11-27T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="34">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="24">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </away>
+      <venue capacity="32500" city="Coventry" country="England" id="2dddfeb9-0564-4f37-8293-73fee304fda9" latitude="52.448056" longitude="-1.495556" name="Ricoh Arena"/>
+    </match>
+    <match coverage="2" id="a3ef503a-3ee6-4eed-8122-7674f963043f" period="" scheduled="2016-11-27T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="21">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="BAT" id="4b08f30c-7fe6-40ad-b747-520ac55aa30e" name="Bath" score="20">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="68cef72c-1bd8-45a2-a1c1-b089c92e2a2f" latitude="51.450278" longitude="-0.344167" name="London"/>
+    </match>
+    <match coverage="2" id="f19f0be6-7f54-4a0c-b645-3f0a85562302" period="" scheduled="2016-11-27T15:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="NPT" id="ae72c0f6-9103-422c-bff7-102cdfbef3e6" name="NG Dragons" score="27">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="EDI" id="b21d06a4-e819-4a47-bbf2-75ae6115ad83" name="Edinburgh" score="19">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="7850" city="Newport" country="Wales" id="087d2c64-f67b-4743-84f0-9bffdd2ef9b1" latitude="51.588333" longitude="-2.987778" name="Rodney Parade"/>
+    </match>
+  </matches>
+</boxscore>

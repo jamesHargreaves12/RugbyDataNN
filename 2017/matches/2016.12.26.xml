@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:33Z">
+  <matches>
+    <match coverage="2" id="cea93a86-0de8-4347-a9e1-9e192fdf9825" period="" scheduled="2016-12-26T14:05:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="CAR" id="6a6c61fb-060f-4973-8472-a50ef2770ce8" name="Cardiff" score="27">
+        <scoring>
+          <period number="1" points="27"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="NPT" id="ae72c0f6-9103-422c-bff7-102cdfbef3e6" name="NG Dragons" score="16">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue city="Cardiff" country="Wales" id="da9cce70-3bf5-44f8-8f82-2aeff5e87754" latitude="51.479722" longitude="-3.183611" name="Cardiff Arms Park"/>
+    </match>
+    <match coverage="2" id="ca1d2e45-26ea-4975-80a7-ba5d9c635c60" period="" scheduled="2016-12-26T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="BRI" id="6b617fdf-901c-4774-8a83-1b91ad590e74" name="Bristol" score="28">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="WOR" id="0a252594-8ac4-44cb-bb1a-debfd9df07f8" name="Worcester" score="20">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="21497" city="Bristol" country="England" id="c413c1fa-2942-491a-aaf6-b8bd2e3b03dc" latitude="51.44" longitude="-2.620278" name="Ashton Gate"/>
+    </match>
+    <match coverage="2" id="5c2fbe6a-877a-48f3-b929-663e2806fcd0" period="" scheduled="2016-12-26T16:05:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="EDI" id="b21d06a4-e819-4a47-bbf2-75ae6115ad83" name="Edinburgh" score="12">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="GLA" id="3e8f8a99-a390-4f5b-82f9-1c209c9e1894" name="Glasgow" score="25">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="67144" city="Edinburgh" country="Scotland" id="3ee9af6c-2e1b-46fc-a45f-d1899b981eb1" latitude="55.942222" longitude="-3.240833" name="Murrayfield"/>
+    </match>
+    <match coverage="2" id="0ce7d54b-fa49-4fb8-82a9-d853319660a5" period="" scheduled="2016-12-26T17:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="MUN" id="6401a81a-6cce-43a0-a3ae-df4ab3ca525d" name="Munster" score="29">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="LEI" id="5a9ba058-9918-42fd-b077-e9cae0c47f78" name="Leinster" score="17">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Limerick" country="Ireland" id="e22cad5d-2b92-4fda-ade5-c2919fc4e920" latitude="52.674271" longitude="-8.642534" name="Thomond Park"/>
+    </match>
+  </matches>
+</boxscore>

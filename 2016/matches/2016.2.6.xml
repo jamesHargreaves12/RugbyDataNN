@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:39Z">
+  <matches>
+    <match coverage="2" id="1a9f0d0d-f4f7-4b1f-aae4-017400821334" period="" scheduled="2016-02-06T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="9">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="8">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue capacity="32500" city="Coventry" country="England" id="2dddfeb9-0564-4f37-8293-73fee304fda9" latitude="52.448056" longitude="-1.495556" name="Ricoh Arena"/>
+    </match>
+    <match coverage="2" id="a1d20bcd-163b-4e2e-a40f-2929b5f34f23" period="" scheduled="2016-02-06T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="23">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="NHA" id="2e31b0db-cbad-4580-9adb-8a92f586cb17" name="Northampton" score="27">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="68cef72c-1bd8-45a2-a1c1-b089c92e2a2f" latitude="51.450278" longitude="-0.344167" name="London"/>
+    </match>
+    <match coverage="2" id="5ef32744-0499-4f38-8507-69cb08216d03" period="" scheduled="2016-02-06T14:25:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="88532d40-a486-4021-b6b8-efcbe2fe4400" name="Six Nations"/>
+      <season end="2016-03-20T22:59:59Z" id="73a42ddc-8a8c-43f3-8203-34a3fcc55212" name="Six Nations 2016" start="2016-02-05T23:00:00Z" year="2016"/>
+      <home alias="FRA" id="bf393c2d-e65a-40b1-a1bb-25b22ab2a43d" name="France" score="23">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </home>
+      <away alias="ITA" id="f90dfcbc-90a1-4b50-bb6b-b7eb69298e9e" name="Italy" score="21">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="80000" city="Paris" country="France" id="4308a113-62e0-4dc8-890e-6e6e08493690" name="Stade de France"/>
+    </match>
+    <match coverage="2" id="cd547026-72e4-4bb4-a7be-f6f804656cbe" period="" scheduled="2016-02-06T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="3">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="10">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Leicester" country="England" id="442e3151-d5e1-4d09-8b2b-044061995030" latitude="52.624167" longitude="-1.133056" name="Welford Road Stadium"/>
+    </match>
+    <match coverage="2" id="e1c80761-6684-4bb0-b5ce-9a2b787c387f" period="" scheduled="2016-02-06T16:50:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="88532d40-a486-4021-b6b8-efcbe2fe4400" name="Six Nations"/>
+      <season end="2016-03-20T22:59:59Z" id="73a42ddc-8a8c-43f3-8203-34a3fcc55212" name="Six Nations 2016" start="2016-02-05T23:00:00Z" year="2016"/>
+      <home alias="SCO" id="dceae27e-9f33-4ec0-9f1d-c820c953fac1" name="Scotland" score="9">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="ENG" id="e5c6db02-f6ff-4401-8c94-f082ba849c84" name="England" score="15">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue capacity="67144" city="Edinburgh" country="Scotland" id="3ee9af6c-2e1b-46fc-a45f-d1899b981eb1" latitude="55.942222" longitude="-3.240833" name="Murrayfield"/>
+    </match>
+    <match coverage="2" id="34722948-1cb3-44fa-a2b1-735b48ed5a47" period="" scheduled="2016-02-06T19:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="MON" id="01fbccab-1df7-4d5b-976b-a042b110e370" name="Montauban" score="17">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="LOU" id="3962b905-c91b-4728-b6b8-1ae52f58c0a7" name="Lyon Olympique" score="23">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="11500" city="Montauban" country="France" id="cb839792-01ba-499c-a3ec-75dcfb3cb191" name="Stade Sapiac"/>
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:10Z">
+  <matches>
+    <match coverage="2" id="9dde6d69-699e-4d59-8ada-a7aef460abbb" period="" scheduled="2015-11-06T18:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="PER" id="277e7c72-a7cc-4c7d-8234-cd9742eacadc" name="Perpignan" score="13">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="MON" id="01fbccab-1df7-4d5b-976b-a042b110e370" name="Montauban" score="20">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="16593" city="Perpignan" country="France" id="2bea9e56-41cd-4e97-977d-20c3a0310c31" latitude="42.715278" longitude="2.891389" name="Stade Aime Giral"/>
+    </match>
+    <match coverage="2" id="df6dd5e5-83a8-4f28-9470-ef8619d11a0a" period="" scheduled="2015-11-06T18:10:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="LAQ" id="927eacd8-0d2a-416c-89a0-661ffe4061c9" name="Laquila" score="16">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="FOR" id="735cfdad-7776-4031-870f-7beb8f0bd609" name="Fiamme Oro" score="33">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="L'Aquila" country="Italy" id="75424787-4e1c-4c03-abb7-05cc66ba3ad1" latitude="42.356389" longitude="13.403889" name="Stadio Tommaso Fattori"/>
+    </match>
+    <match coverage="2" id="1364bf0e-63bb-4d5f-a655-ae326a46ef3f" period="" scheduled="2015-11-06T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="LOU" id="3962b905-c91b-4728-b6b8-1ae52f58c0a7" name="Lyon Olympique" score="46">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="TPR" id="44bc606f-510e-4e3f-bccb-7112b028dd5d" name="Tarbes Pyrenees" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="8000" city="Lyon" country="France" id="8c4fd0f5-d647-4a7a-a6b1-1485ed866e6f" latitude="45.721328" longitude="4.876014" name="Matmut Stadium"/>
+    </match>
+    <match coverage="2" id="144e9ef5-3e25-4055-9c82-f1dff4e9bb47" period="" scheduled="2015-11-06T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="NAR" id="f0672782-b24b-4c5e-82da-149838cd93fd" name="Narbonne" score="22">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="MDM" id="8bccce41-25dd-4a06-b377-1bc012454608" name="Mont-De-Marsan" score="12">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="12000" city="Narbonne" country="France" id="4d7d6fd6-075b-4148-ad77-a20e0736c378" latitude="43.181389" longitude="3.019444" name="Parc des Sports Et de l'Amitie"/>
+    </match>
+    <match coverage="2" id="c5bdee5b-71d5-4fe3-a8b0-d0ecccbaa24e" period="" scheduled="2015-11-06T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="CAR" id="47e21bf8-9618-470f-af41-734f8c55e4b8" name="Carcassonne" score="15">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="BOU" id="174fdc29-16eb-4231-9dd2-f36ca9877088" name="Bourgoin-Jallieu" score="13">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="Carcassonne" country="France" id="51706f07-9ac5-4c86-aa17-cf31f4a3ff32" latitude="43.217778" longitude="2.364444" name="Stade d'Albert Domec"/>
+    </match>
+    <match coverage="2" id="d289c351-adcf-441d-9b15-a91d2f5d8aa8" period="" scheduled="2015-11-06T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="ALB" id="af1bec3d-fda7-4237-be9a-3dee730fc5f5" name="Albi" score="23">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </home>
+      <away alias="PRO" id="254b557e-a0a8-4b91-af1a-1b7e0b5d783c" name="Provence" score="19">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="13058" city="Albi" country="France" id="5387d75b-04f7-4b39-89ab-bc19b6141534" latitude="43.923333" longitude="2.166389" name="Stadium Municipal d'Albi"/>
+    </match>
+    <match coverage="2" id="df50c11f-ca8e-40db-88f8-d861bbf9d7f7" period="" scheduled="2015-11-06T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="AUR" id="fa80ee2c-7d3e-4ce8-b698-07a95099f39e" name="Aurillacois" score="29">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="DAX" id="30b271b6-e9c0-4941-9e59-f9df6d476777" name="Dax" score="15">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue capacity="9000" city="Aurillac" country="France" id="4737c7fe-ce1f-4c48-b715-58f2eef85322" latitude="44.924444" longitude="2.429444" name="Stade Jean Alric"/>
+    </match>
+    <match coverage="1" id="080a27eb-038c-430c-a490-fdd869b0a68a" period="" scheduled="2015-11-06T19:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="CON" id="8dc17c77-7e0e-4a84-bc57-b88d470836be" name="Connacht" score="33">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="BEN" id="429a0b83-c77b-4ed7-91a2-6df4a9c6e477" name="Benetton" score="19">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue city="Galway" country="Ireland" id="9e95edcd-9987-401d-bd60-31ff456118ac" latitude="53.279" longitude="-9.0397" name="Galway Sportsgrounds"/>
+    </match>
+    <match coverage="1" id="e1c98e11-e762-4a4f-b21b-e18aee781e4c" period="" scheduled="2015-11-06T19:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="LEI" id="5a9ba058-9918-42fd-b077-e9cae0c47f78" name="Leinster" score="19">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="SCA" id="e3c0d780-460b-44cf-b126-d5dba29b2e51" name="Scarlets" score="15">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue city="Dublin" country="Ireland" id="e83f76b6-963d-44a7-9526-711de30a9206" latitude="53.325556" longitude="-6.229444" name="RDS"/>
+    </match>
+    <match coverage="1" id="a5f7f014-2e01-4ea2-9c7b-e49d24836028" period="" scheduled="2015-11-06T19:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="16">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="14">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="68cef72c-1bd8-45a2-a1c1-b089c92e2a2f" latitude="51.450278" longitude="-0.344167" name="London"/>
+    </match>
+  </matches>
+</boxscore>

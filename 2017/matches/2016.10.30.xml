@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T17:57:45Z">
+  <matches>
+    <match coverage="2" id="5eda6ce1-d09d-428c-a9ee-298e4eab547c" period="" scheduled="2016-10-30T11:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="CAS" id="9f5704a0-d2d8-445c-8da0-04515a2da467" name="Castres" score="33">
+        <scoring>
+          <period number="1" points="23"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="BEG" id="91190ecf-03e9-46b2-9624-9901f4ad53a7" name="B. Bordeaux" score="27">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="11500" city="Castres" country="France" id="dc71ae45-2314-43ac-a336-f6a7c4bb0f7f" latitude="43.6109" longitude="2.25274" name="Stade Pierre-Antoine"/>
+    </match>
+    <match coverage="2" id="0127c000-d2a0-4ddd-a622-e0818820679e" period="" scheduled="2016-10-30T13:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2017-05-31T21:59:59Z" id="39355ab3-a57c-4726-bc7b-7a3bca4dc84e" name="Pro D2 16/17" start="2016-08-24T22:00:00Z" year="2016"/>
+      <home alias="COL" id="e0bf4be2-f54a-4e38-820f-00cb7ceb0328" name="Colomiers" score="46">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="25"/>
+        </scoring>
+      </home>
+      <away alias="DAX" id="30b271b6-e9c0-4941-9e59-f9df6d476777" name="Dax" score="22">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="11430" city="Colomiers" country="France" id="40dc6130-f8ac-459f-a94c-e8ef70282c7f" latitude="43.619842" longitude="1.327236" name="Stade Michel Bendichou"/>
+    </match>
+    <match coverage="2" id="cb844a8b-5802-4140-be9b-b95c20a61806" period="" scheduled="2016-10-30T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="31">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="6">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="32500" city="Coventry" country="England" id="2dddfeb9-0564-4f37-8293-73fee304fda9" latitude="52.448056" longitude="-1.495556" name="Ricoh Arena"/>
+    </match>
+    <match coverage="2" id="51583ddb-646e-4d43-b0b1-70d52f1a602c" period="" scheduled="2016-10-30T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="BRI" id="6b617fdf-901c-4774-8a83-1b91ad590e74" name="Bristol" score="13">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="31">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </away>
+      <venue capacity="21497" city="Bristol" country="England" id="c413c1fa-2942-491a-aaf6-b8bd2e3b03dc" latitude="51.44" longitude="-2.620278" name="Ashton Gate"/>
+    </match>
+    <match coverage="2" id="f1f8c2be-e134-4847-8d39-918615ff74c6" period="" scheduled="2016-10-30T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter" score="10">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="BAT" id="4b08f30c-7fe6-40ad-b747-520ac55aa30e" name="Bath" score="13">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue city="Exeter" country="England" id="6b082fc8-bfe8-4686-997c-ef308de5589a" latitude="50.709308" longitude="-3.467572" name="Sandy Park"/>
+    </match>
+    <match coverage="2" id="99d336ef-cc64-4ee7-92ee-976a3abd2711" period="" scheduled="2016-10-30T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="BRI" id="095885cc-0872-4c1d-adbd-0f0545fd85cf" name="Brive" score="16">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="CLE" id="961ac156-ff5c-4e7e-ae0d-bb09296e0576" name="Clermont" score="40">
+        <scoring>
+          <period number="1" points="27"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="16000" city="Brive-la-Gaillarde" country="France" id="8879d73d-decc-4a19-b6dd-2b76b8726957" latitude="45.161667" longitude="1.548611" name="Stade Amedee-Domenech"/>
+    </match>
+  </matches>
+</boxscore>

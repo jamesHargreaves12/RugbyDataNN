@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:18Z">
+  <matches>
+    <match coverage="2" id="9082e9d6-01e1-4ac4-8a17-3232124354f5" period="" scheduled="2015-11-29T13:25:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="PER" id="277e7c72-a7cc-4c7d-8234-cd9742eacadc" name="Perpignan" score="23">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="COL" id="e0bf4be2-f54a-4e38-820f-00cb7ceb0328" name="Colomiers" score="23">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </away>
+      <venue capacity="16593" city="Perpignan" country="France" id="2bea9e56-41cd-4e97-977d-20c3a0310c31" latitude="42.715278" longitude="2.891389" name="Stade Aime Giral"/>
+    </match>
+    <match coverage="2" id="bab1738e-4fc3-4cb0-93c2-06a6a81e226f" period="" scheduled="2015-11-29T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="SCA" id="e3c0d780-460b-44cf-b126-d5dba29b2e51" name="Scarlets" score="20">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="ZEB" id="7dd71d62-cf83-4b55-a4f4-8814ba0e904d" name="Zebre" score="12">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="14870" city="Llanelli" country="Wales" id="d5a1d3e2-0e65-4d98-8325-f4fcfc37f32b" latitude="51.678816" longitude="-4.127621" name="Parc y Scarlets"/>
+    </match>
+    <match coverage="2" id="0a011e95-2d4b-422d-959a-6f6e39f2a9b8" period="" scheduled="2015-11-29T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="21">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="BAT" id="4b08f30c-7fe6-40ad-b747-520ac55aa30e" name="Bath" score="11">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue city="Leicester" country="England" id="442e3151-d5e1-4d09-8b2b-044061995030" latitude="52.624167" longitude="-1.133056" name="Welford Road Stadium"/>
+    </match>
+    <match coverage="2" id="1eac74af-aeee-4d12-a471-353f5d8c7454" period="" scheduled="2015-11-29T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="GRE" id="48ad37ec-3c12-4ce5-aa85-2f108fbf739b" name="Grenoble" score="19">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </home>
+      <away alias="FPA" id="2e6759fd-197d-45b3-a29e-95b735f538e3" name="Stade Francais" score="21">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="11900" city="Grenoble" country="France" id="b0e0979a-b050-4298-a7a5-619914e9cc2c" latitude="45.16616" longitude="5.709444" name="Stade Lesdiguieres"/>
+    </match>
+  </matches>
+</boxscore>

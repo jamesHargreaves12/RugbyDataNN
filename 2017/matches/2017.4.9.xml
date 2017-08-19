@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:24:09Z">
+  <matches>
+    <match coverage="2" id="da8b2051-2933-47ae-9004-47cbc53aa838" period="" scheduled="2017-04-09T01:30:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="SAM" id="7d65538f-7b61-4414-b710-166f82ed26d8" name="Samoa" score="21">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="SCO" id="3bc4a45d-3214-4138-8bd5-d84d52ce39ad" name="Scotland" score="26">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="1463cdfb-748a-473a-bef3-f9499d48273e" period="" scheduled="2017-04-09T01:52:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="WAL" id="11f58317-4b27-49b0-a6d7-42f9defdfbf9" name="Wales" score="21">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="FRA" id="03be7ac5-c729-47ac-be74-8d10e123b587" name="France" score="28">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="154d138f-041b-4be0-bebf-363e26816988" period="" scheduled="2017-04-09T02:14:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="R7S" id="ba2138ce-d6c3-4a85-86fa-e5b61fa00842" name="Russia" score="43">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </home>
+      <away/>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="ca49b48a-57e9-4143-9591-86ddbd37a0b8" period="" scheduled="2017-04-09T02:36:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="KEN" id="d56ba4b3-bbe0-460d-8961-0f637b592dd1" name="Kenya" score="24">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="JAP" id="17313e50-c526-449e-bde6-daa9c600f486" name="Japan" score="17">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="b49e372d-89b3-4cb6-a460-0182f0cbdc59" period="" scheduled="2017-04-09T02:58:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="AUS" id="b082204f-4ca4-4593-95bc-89cc42b6a0c7" name="Australia" score="21">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="ARG" id="4f1aa3a6-6603-471f-841f-f0ea91c7f129" name="Argentina" score="12">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="366a53f5-390c-495f-acbc-2f5ea5a081cd" period="" scheduled="2017-04-09T03:20:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="FID" id="ff5afc3d-7b49-4ce1-95e6-9d6baeef8259" name="Fiji" score="29">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="CAN" id="94f2fa86-3621-4dc8-abe3-3b7f9402ad2c" name="Canada" score="12">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="baecb340-a79e-4e3b-84a1-2a26a15e6c17" period="" scheduled="2017-04-09T03:42:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="USA" id="28b22c33-0129-4c0e-b05a-a7a2c40157b8" name="USA" score="27">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="ENG" id="6ff9b153-34f7-4250-a0cf-4e7556a3287c" name="England" score="7">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="ffeef245-6c4b-403b-a661-c2eaa4a3824e" period="" scheduled="2017-04-09T04:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2017-10-31T22:59:59Z" id="6e70b3d4-b18a-4d1c-b08e-5d9d9cd22f5b" name="NRL 2017" start="2017-02-28T23:00:00Z" year="2017"/>
+      <home alias="WAR" id="8d3eeaec-510a-4a95-9cd3-72e22b3a4c3a" name="NZ Warriors" score="22">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="PAR" id="aa685bc3-686c-43ec-b0b1-3b179e078920" name="Parramatta" score="10">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </away>
+      <venue city="Auckland" country="New Zealand" id="beb27874-4546-4aec-9815-10550205917e" latitude="-36.918298" longitude="174.812374" name="Mount Smart Stadium"/>
+    </match>
+    <match coverage="2" id="32e81c0f-5591-424a-96e9-3981bf9e1abd" period="" scheduled="2017-04-09T04:06:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="SRA" id="2fb8250c-9dc7-49cd-9ff8-68dc141f5d4b" name="South Africa" score="21">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="3ed9b205-d405-4dd0-8e24-174874fbe8a1" name="New Zealand" score="19">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="a6411a3e-1a24-45c7-a626-58407352ab08" period="" scheduled="2017-04-09T05:14:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="SAM" id="7d65538f-7b61-4414-b710-166f82ed26d8" name="Samoa" score="12">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </home>
+      <away alias="WAL" id="11f58317-4b27-49b0-a6d7-42f9defdfbf9" name="Wales" score="26">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="b44e7d07-d906-42fd-a423-1274d7423be2" period="" scheduled="2017-04-09T05:36:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home/>
+      <away alias="JAP" id="17313e50-c526-449e-bde6-daa9c600f486" name="Japan" score="36">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="2a704715-f082-4318-9432-29114c75c511" period="" scheduled="2017-04-09T05:58:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="SCO" id="3bc4a45d-3214-4138-8bd5-d84d52ce39ad" name="Scotland" score="21">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="FRA" id="03be7ac5-c729-47ac-be74-8d10e123b587" name="France" score="19">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="bd1ca3b6-f72c-4603-99de-726aca389bfe" period="" scheduled="2017-04-09T06:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2017-10-31T22:59:59Z" id="6e70b3d4-b18a-4d1c-b08e-5d9d9cd22f5b" name="NRL 2017" start="2017-02-28T23:00:00Z" year="2017"/>
+      <home alias="MBS" id="ea140a99-5b41-400d-b189-5c098b753b3d" name="Melbourne" score="2">
+        <scoring>
+          <period number="1" points="2"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="CRO" id="91ed5441-fc3d-4d86-a34e-90bf42a32744" name="Cronulla" score="11">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="11"/>
+        </scoring>
+      </away>
+      <venue capacity="30000" city="Melbourne" country="Australia" id="f0b008ab-e3ff-41f8-9a9f-f2340e09ee36" latitude="-37.825278" longitude="144.983889" name="AAMI Park"/>
+    </match>
+    <match coverage="2" id="e38ac6d4-7b50-46a0-bd6e-e6cf8a2de658" period="" scheduled="2017-04-09T06:05:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="WFO" id="cfa0cd6f-1595-40cf-9981-283038ff480b" name="Force" score="46">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="31"/>
+        </scoring>
+      </home>
+      <away alias="KGS" id="b80dbf1a-e18e-4d9b-bf60-24ae4339aacf" name="Kings" score="41">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="34"/>
+        </scoring>
+      </away>
+      <venue capacity="17288" city="Perth" country="Australia" id="0b2ba16d-fe6f-4054-ac13-9f7bbd3c6341" latitude="-31.945833" longitude="115.87" name="nib Stadium"/>
+    </match>
+    <match coverage="2" id="a36b230d-4c30-4cb7-84fc-eed1c97a4f1f" period="" scheduled="2017-04-09T06:22:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="R7S" id="ba2138ce-d6c3-4a85-86fa-e5b61fa00842" name="Russia" score="5">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </home>
+      <away alias="KEN" id="d56ba4b3-bbe0-460d-8961-0f637b592dd1" name="Kenya" score="24">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="ceb01dd6-8ff4-43a0-9508-0316c2d6fe0b" period="" scheduled="2017-04-09T06:47:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="ARG" id="4f1aa3a6-6603-471f-841f-f0ea91c7f129" name="Argentina" score="20">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </home>
+      <away alias="CAN" id="94f2fa86-3621-4dc8-abe3-3b7f9402ad2c" name="Canada" score="19">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="5fe22f89-d28e-493b-b782-5669d0d600e6" period="" scheduled="2017-04-09T07:09:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="ENG" id="6ff9b153-34f7-4250-a0cf-4e7556a3287c" name="England" score="7">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="3ed9b205-d405-4dd0-8e24-174874fbe8a1" name="New Zealand" score="21">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="7a8c6a58-7704-4635-a969-a13efdd7cd45" period="" scheduled="2017-04-09T07:31:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="AUS" id="b082204f-4ca4-4593-95bc-89cc42b6a0c7" name="Australia" score="12">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="FID" id="ff5afc3d-7b49-4ce1-95e6-9d6baeef8259" name="Fiji" score="33">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="e0c060e8-29d4-4207-9584-c6fdd8eaeb16" period="" scheduled="2017-04-09T07:53:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="USA" id="28b22c33-0129-4c0e-b05a-a7a2c40157b8" name="USA" score="24">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="SRA" id="2fb8250c-9dc7-49cd-9ff8-68dc141f5d4b" name="South Africa" score="29">
+        <scoring>
+          <period number="1" points="19"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="3927815d-3c7e-42f8-b055-cb9ecbbebc9a" period="" scheduled="2017-04-09T09:00:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="WAL" id="11f58317-4b27-49b0-a6d7-42f9defdfbf9" name="Wales" score="21">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="JAP" id="17313e50-c526-449e-bde6-daa9c600f486" name="Japan" score="28">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="f93c5b1b-3533-41fa-b100-40b8dabd639e" period="" scheduled="2017-04-09T09:30:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="SCO" id="3bc4a45d-3214-4138-8bd5-d84d52ce39ad" name="Scotland" score="21">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="KEN" id="d56ba4b3-bbe0-460d-8961-0f637b592dd1" name="Kenya" score="19">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="7bb2cb21-3aa4-41f9-ae2f-89082479f238" period="" scheduled="2017-04-09T10:00:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="ARG" id="4f1aa3a6-6603-471f-841f-f0ea91c7f129" name="Argentina" score="7">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="3ed9b205-d405-4dd0-8e24-174874fbe8a1" name="New Zealand" score="10">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="08de723b-a29d-4b19-accb-3043995aed5a" period="" scheduled="2017-04-09T10:30:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="AUS" id="b082204f-4ca4-4593-95bc-89cc42b6a0c7" name="Australia" score="26">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="USA" id="28b22c33-0129-4c0e-b05a-a7a2c40157b8" name="USA" score="19">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="afd2643b-fcd9-4dac-9129-7609753636ae" period="" scheduled="2017-04-09T10:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="RME" id="77f6c3b5-4ead-4697-b9ba-74ebbff839c5" name="Racing-Metro" score="34">
+        <scoring>
+          <period number="1" points="27"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="32">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </away>
+      <venue capacity="7000" city="Colombes" country="France" id="e6e094ba-f2a6-424a-956e-75843b43d044" latitude="48.929444" longitude="2.248056" name="Stade Olympique Yves-du-Manoir"/>
+    </match>
+    <match coverage="2" id="e659e9be-aac3-48f0-97bd-0c0d752d1cab" period="" scheduled="2017-04-09T11:00:00Z" status="closed">
+      <league id="92b0ca44-dd2f-4271-9f85-470d705195e9" name="Rugby Union Sevens"/>
+      <tournament id="df918d7b-0fba-4107-b13a-f4f03c715a90" name="World Rugby Sevens World Series"/>
+      <season end="2017-05-28T21:59:59Z" id="ab221d6c-fdfe-4268-9fbb-64d36187d5af" name="World Rugby Sevens World Series 16/17" start="2016-11-30T23:00:00Z" year="2017"/>
+      <home alias="FID" id="ff5afc3d-7b49-4ce1-95e6-9d6baeef8259" name="Fiji" score="22">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="SRA" id="2fb8250c-9dc7-49cd-9ff8-68dc141f5d4b" name="South Africa" score="0">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="c31cba1c-36d6-470d-bc71-a2337c5b2082" period="" scheduled="2017-04-09T12:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2017-05-31T21:59:59Z" id="39355ab3-a57c-4726-bc7b-7a3bca4dc84e" name="Pro D2 16/17" start="2016-08-24T22:00:00Z" year="2016"/>
+      <home alias="NAR" id="f0672782-b24b-4c5e-82da-149838cd93fd" name="Narbonne" score="12">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="PER" id="277e7c72-a7cc-4c7d-8234-cd9742eacadc" name="Perpignan" score="28">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="23"/>
+        </scoring>
+      </away>
+      <venue capacity="12000" city="Narbonne" country="France" id="4d7d6fd6-075b-4148-ad77-a20e0736c378" latitude="43.181389" longitude="3.019444" name="Parc des Sports Et de l'Amitie"/>
+    </match>
+    <match coverage="2" id="184d2f1f-a242-4c03-af43-70c4fc732e04" period="" scheduled="2017-04-09T13:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="DCR" id="622de223-3814-4928-b87f-9d13fdb1a76e" name="Doncaster" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away/>
+      <venue capacity="15231" city="Doncaster" country="England" id="4a3992c1-ca48-4b90-8e99-db3fe017668b" latitude="53.509722" longitude="-1.113889" name="Keepmoat Stadium"/>
+    </match>
+    <match coverage="2" id="4ebee2b1-d602-4d66-b607-7742f215254a" period="" scheduled="2017-04-09T13:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="OXF" id="43b7aa94-2f74-45de-9bb3-56cfb263e4d1" name="Oxford" score="35">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="YCK" id="4c356fbb-3258-4298-8576-9567e24362a4" name="York City" score="28">
+        <scoring>
+          <period number="1" points="28"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue id="a3abde7b-5d76-4beb-a32e-3cbc4d80ce8e"/>
+    </match>
+    <match coverage="2" id="92541724-2058-41b9-9322-089961d3677a" period="" scheduled="2017-04-09T13:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="HEM" id="515375ee-e8c7-4ddc-8164-37a1da6ce1bd" name="Stags" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="KCG" id="c3b5a4ae-db13-479b-8d4b-c00a5250ef71" name="Keighley" score="84">
+        <scoring>
+          <period number="1" points="42"/>
+          <period number="2" points="42"/>
+        </scoring>
+      </away>
+      <venue capacity="2000" city="Hemel Hempstead" country="England" id="17e9072d-c708-4bdf-8655-be9b36913d90" name="Pennine Way"/>
+    </match>
+    <match coverage="2" id="081982c3-c543-424b-9ce2-e52b7e251285" period="" scheduled="2017-04-09T13:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="NWC" id="8447df1e-dc47-4837-82c7-ba34b900567d" name="Crusaders" score="30">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="4b700176-9114-4a28-9d57-0ad01b3625ab" name="Newcastle" score="14">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="15500" city="Wrexham" country="Wales" id="5ad98fe2-ae1b-47fb-ab69-5eef86838d74" latitude="53.051944" longitude="-3.003611" name="Racecourse Ground"/>
+    </match>
+    <match coverage="2" id="0186e257-2862-4a8f-9513-22085db0fb53" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="32">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </home>
+      <away alias="NHA" id="2e31b0db-cbad-4580-9adb-8a92f586cb17" name="Northampton" score="30">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="32500" city="Coventry" country="England" id="2dddfeb9-0564-4f37-8293-73fee304fda9" latitude="52.448056" longitude="-1.495556" name="Ricoh Arena"/>
+    </match>
+    <match coverage="2" id="126d4994-ef55-46ee-9d2f-3555e2d98bb3" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="BBD" id="f55d33da-225e-4c7e-b2c1-8943c8321f5b" name="Batley" score="38">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="RDH" id="e09165fb-4a03-4b41-997b-5bb809bf9107" name="Rochdale" score="36">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Batley" country="England" id="07800cb1-06ef-4cdb-b6e4-9b361eeb0e1c" name="Loverugbyleague.com Stadium"/>
+    </match>
+    <match coverage="2" id="4b56c11f-9192-49ca-9c4c-9e9b92254e97" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="GAG" id="ad782a3f-85c9-48b1-8564-e7d9c4c7f017" name="All Golds" score="22">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="2"/>
+        </scoring>
+      </home>
+      <away alias="LSK" id="8a6e9503-e5ae-40b1-ba43-1d97c3d0667b" name="Skolars" score="24">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="480" city="Cheltenham" country="England" id="b40edd20-9846-4d2e-9388-70eeffb20dac" name="Prince of Wales"/>
+    </match>
+    <match coverage="2" id="69e47f89-73d5-488c-ad77-0bfb4e53be76" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="FSR" id="f5b17cb1-490e-41eb-a8e1-03980be45883" name="Featherstone" score="38">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </home>
+      <away alias="LON" id="2304459f-b802-4217-8cb9-cae3697c614f" name="London" score="18">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="6750" city="Featherstone" country="England" id="58babc00-fc49-4859-9987-58b7d233fdb5" name="Bigfellas Stadium"/>
+    </match>
+    <match coverage="2" id="6b29c3b3-be57-4ebb-af77-8fbafe6ad9c4" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="HUN" id="7d6482d4-dda2-43f4-8a99-8cd33c31dbc7" name="Hunslet" score="58">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="36"/>
+        </scoring>
+      </home>
+      <away alias="SWI" id="ce7034be-a38a-47a9-9605-a29fa3e42cfb" name="South Wales" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="4000" city="Leeds" country="England" id="e24e9573-7947-4f92-8a7b-5a6a171fdf04" name="South Leeds Stadium"/>
+    </match>
+    <match coverage="2" id="6f115ad8-55d3-4819-a964-942436ea9223" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="BRA" id="cd4e2d6b-1da8-41df-8c97-9498caed62e3" name="Bradford" score="48">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="SFE" id="a6184a0b-7274-4839-8722-d04aeeb65734" name="Sheffield" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue city="Bradford" country="England" id="61bf8b76-4dfa-4260-8a90-0b4de5e81b53" latitude="53.764772" longitude="-1.757008" name="The Provident Stadium"/>
+    </match>
+    <match coverage="2" id="83a9b8f6-f8c4-4b00-97b7-233a7d4f4d2f" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="SWL" id="e935a299-c20e-43fd-bf2d-d4d9b295fc70" name="Swinton" score="18">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="HKR" id="156ddc29-5613-43d8-ba3d-21a5f1422a1f" name="Hull Kingston" score="52">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </away>
+      <venue city="Whitefield" country="England" id="7f993441-a851-4faa-95e1-52a0cf8ceaf0" name="Parklane"/>
+    </match>
+    <match coverage="2" id="8aa070a6-8191-408b-9bbb-b6b4ad9afc0d" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2017-10-31T22:59:59Z" id="7192ff13-acca-4026-a005-ec5cbb5572ed" name="RFL Championship 1 2017" start="2017-03-01T23:00:00Z" year="2017"/>
+      <home alias="WHW" id="93e4ff43-6d9b-4b60-be6c-72cfc67cfbcb" name="Whitehaven" score="44">
+        <scoring>
+          <period number="1" points="34"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="CBE" id="6196397f-7e8f-4e92-be89-1a29f8d05e3b" name="Bears" score="12">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Whitehaven" country="England" id="da26b2aa-64c3-446b-8f03-0452de556902" name="The Recreation Ground"/>
+    </match>
+    <match coverage="2" id="8d589c7b-c68c-4fa4-892c-af083fa3463d" period="" scheduled="2017-04-09T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="HAL" id="d302c4d2-6ac8-4576-8f35-3b66302708e9" name="Halifax" score="34">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="28"/>
+        </scoring>
+      </home>
+      <away alias="DBR" id="f2fecddd-9889-47f4-9ba4-397a80fb82c3" name="Dewsbury" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="14061" city="Halifax" country="England" id="1dfc7fed-eb43-404e-bbf0-e1b9acfcfb29" latitude="53.716111" longitude="-1.859167" name="The Shay"/>
+    </match>
+    <match coverage="2" id="8c980ec9-c393-4b5c-ac53-326d8ef0975f" period="" scheduled="2017-04-09T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="33">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="23">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="14700" city="Toulon" country="France" id="7ec548ed-e4d6-4dae-9322-b2a28abb7034" latitude="43.118947" longitude="5.936531" name="Stade Mayol"/>
+    </match>
+  </matches>
+</boxscore>

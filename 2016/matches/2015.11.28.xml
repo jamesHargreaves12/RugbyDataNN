@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:16Z">
+  <matches>
+    <match coverage="2" id="478a29b5-5eaa-40ab-b52e-ef697c88d6dd" period="" scheduled="2015-11-28T13:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="CAL" id="b0374943-2fc2-48ea-9472-1e9d8eb6efe1" name="Calvisano" score="61">
+        <scoring>
+          <period number="1" points="40"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </home>
+      <away alias="LAQ" id="927eacd8-0d2a-416c-89a0-661ffe4061c9" name="Laquila" score="3">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="3500" city="Calvisano" country="Italy" id="c5015031-e4a5-4cb6-9095-d4172ab33fbf" latitude="45.35538" longitude="10.342533" name="Centro Sportivo San Michele"/>
+    </match>
+    <match coverage="2" id="a6b1a7aa-bcdd-467b-8e18-94a9d2f214fe" period="" scheduled="2015-11-28T13:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="RME" id="77f6c3b5-4ead-4697-b9ba-74ebbff839c5" name="Racing-Metro" score="28">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="13">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="7000" city="Colombes" country="France" id="e6e094ba-f2a6-424a-956e-75843b43d044" latitude="48.929444" longitude="2.248056" name="Stade Olympique Yves-du-Manoir"/>
+    </match>
+    <match coverage="2" id="633a9d1f-bbf3-4dd5-bfc7-72bbb9dd76d1" period="" scheduled="2015-11-28T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="FOR" id="735cfdad-7776-4031-870f-7beb8f0bd609" name="Fiamme Oro" score="15">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="MOG" id="04b8cdee-38b5-4df8-bad2-70070a7f91bd" name="Mogliano" score="16">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue city="Rome" country="Italy" id="4a61cd7d-d880-40c7-b723-712a07f20169" latitude="41.807301" longitude="12.317335" name="Caserma Stefano Gelsomini"/>
+    </match>
+    <match coverage="2" id="679994d6-a72c-49c7-a5d6-9df3caed138a" period="" scheduled="2015-11-28T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="RLY" id="6fde525b-e932-44b2-8247-3e7fb87a7225" name="Rugby Lyons" score="9">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="PAD" id="8d8e408c-9690-42dc-9900-e89d2b3a7730" name="Padova" score="26">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue city="Piacenza" country="Italy" id="ffb2532f-8e68-4c5e-9412-0c347384dc82" name="Stadio Comunale Beltrametti"/>
+    </match>
+    <match coverage="2" id="e5868289-7e52-4b21-a220-2ff102acb5b1" period="" scheduled="2015-11-28T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="ROV" id="06e16cbd-1d3a-458d-b4dc-9ab4a20612a2" name="Rovigo" score="34">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="25"/>
+        </scoring>
+      </home>
+      <away alias="VIA" id="17d7ec6e-9360-4529-863b-a88c3f38f0b5" name="Viadana" score="14">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="6000" city="Rovigo" country="Italy" id="40b4d12d-d932-4fe2-91d3-998d23ec1f59" latitude="45.079682" longitude="11.796579" name="Stadio Comunale Mario Battaglini"/>
+    </match>
+    <match coverage="2" id="a04c7aec-ecb3-485d-acf9-b7a3848cddde" period="" scheduled="2015-11-28T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="15">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="15">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Manchester" country="England" id="d4f5816f-3154-4e77-90a3-b431160cbdf6" latitude="53.468533" longitude="-2.378887" name="The AJ Bell Stadium"/>
+    </match>
+    <match coverage="2" id="67dca3b7-0431-40bb-bc99-2a422735d8e1" period="" scheduled="2015-11-28T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="OSP" id="48daa401-0492-4b07-bcf7-95fc5dbfe15d" name="Ospreys" score="13">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </home>
+      <away alias="CAR" id="6a6c61fb-060f-4973-8472-a50ef2770ce8" name="Cardiff" score="6">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="20827" city="Swansea" country="Wales" id="16073a24-5270-4691-b458-f5124db3decf" latitude="51.6422" longitude="-3.9351" name="Liberty Stadium"/>
+    </match>
+    <match coverage="2" id="921c8c0b-e93c-4ce5-84ed-039c3d978da2" period="" scheduled="2015-11-28T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter" score="26">
+        <scoring>
+          <period number="1" points="19"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="25">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue city="Exeter" country="England" id="6b082fc8-bfe8-4686-997c-ef308de5589a" latitude="50.709308" longitude="-3.467572" name="Sandy Park"/>
+    </match>
+    <match coverage="2" id="1a4f6a63-87c9-4275-b5ab-281f092247b4" period="" scheduled="2015-11-28T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="48">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="28"/>
+        </scoring>
+      </home>
+      <away alias="WOR" id="0a252594-8ac4-44cb-bb1a-debfd9df07f8" name="Worcester" score="18">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="82000" city="London" country="England" id="b343fadb-4b39-45c2-bf4a-b069326276a4" name="Twickenham"/>
+    </match>
+    <match coverage="2" id="c78ccd0a-f315-41fd-a8a3-4b81e0f2ef39" period="" scheduled="2015-11-28T17:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="MUN" id="6401a81a-6cce-43a0-a3ae-df4ab3ca525d" name="Munster" score="12">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="CON" id="8dc17c77-7e0e-4a84-bc57-b88d470836be" name="Connacht" score="18">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue city="Limerick" country="Ireland" id="e22cad5d-2b92-4fda-ade5-c2919fc4e920" latitude="52.674271" longitude="-8.642534" name="Thomond Park"/>
+    </match>
+    <match coverage="2" id="012ded29-ab2f-4801-8a6f-002a4935cf5c" period="" scheduled="2015-11-28T17:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="AGE" id="76cf514f-b2be-4035-bbcc-33aee47e9a01" name="Agen" score="18">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="CAS" id="9f5704a0-d2d8-445c-8da0-04515a2da467" name="Castres" score="23">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="14000" city="Agen" country="France" id="64b5a2d3-6076-42d9-980b-9f57252f0b61" latitude="44.1925" longitude="0.620556" name="Stade Armandie"/>
+    </match>
+    <match coverage="2" id="01cf9b74-7e90-4737-be92-1d8bfa643854" period="" scheduled="2015-11-28T17:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LOI" id="10fb7561-94de-407d-9f32-39a5af5171ac" name="London Irish" score="15">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="33">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="22"/>
+        </scoring>
+      </away>
+      <venue capacity="82000" city="London" country="England" id="b343fadb-4b39-45c2-bf4a-b069326276a4" name="Twickenham"/>
+    </match>
+    <match coverage="2" id="1fa68b32-2587-46aa-aca9-fdc4c36f6074" period="" scheduled="2015-11-28T17:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="BEG" id="91190ecf-03e9-46b2-9624-9901f4ad53a7" name="B. Bordeaux" score="46">
+        <scoring>
+          <period number="1" points="25"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </home>
+      <away alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="10">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="Begles" country="France" id="bb3b1da4-6794-49ca-aa90-6bb8a3777ffb" latitude="44.805283" longitude="-0.552494" name="Stade Andre Moga"/>
+    </match>
+    <match coverage="2" id="ea80aed0-be63-4c7c-b756-19eeb2d94d10" period="" scheduled="2015-11-28T17:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="OYO" id="fb2b3fa4-1e8e-4b92-914a-7e6cefbe2845" name="Oyonnax" score="9">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="BRI" id="095885cc-0872-4c1d-adbd-0f0545fd85cf" name="Brive" score="34">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="6000" city="Oyonnax" country="France" id="5ac2d96e-c4ad-4492-b0ee-35c2fa6cb69e" latitude="46.253633" longitude="5.644844" name="Stade Charles-Mathon"/>
+    </match>
+    <match coverage="2" id="b77c2951-3257-47a5-8113-4e3c92dde5e4" period="" scheduled="2015-11-28T19:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="CLE" id="961ac156-ff5c-4e7e-ae0d-bb09296e0576" name="Clermont" score="9">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="35">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </away>
+      <venue capacity="16610" city="Clermont-Ferrand" country="France" id="18abe33a-501d-424d-b99e-8cfb1438b949" latitude="45.789444" longitude="3.106111" name="Stade Marcel-Michelin"/>
+    </match>
+  </matches>
+</boxscore>

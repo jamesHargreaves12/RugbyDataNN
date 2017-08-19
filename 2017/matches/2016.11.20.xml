@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:20Z">
+  <matches>
+    <match coverage="2" id="2272f88a-8f76-4ec3-9527-7117d552f93d" period="" scheduled="2016-11-20T11:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="FPA" id="2e6759fd-197d-45b3-a29e-95b735f538e3" name="Stade Francais" score="21">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="MON" id="997612ac-b8d2-42f9-9ef0-a24ea70ebc8e" name="Montpellier" score="17">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue city="Issy-les-Moulineaux" country="France" id="e7a8cea7-a49d-4c02-b735-aced96c1f505" latitude="48.681519" longitude="2.373478" name="Stade Jean Bouin"/>
+    </match>
+    <match coverage="2" id="9c131cd9-4c72-419e-83fb-0512dacb58f3" period="" scheduled="2016-11-20T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="13">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="28">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </away>
+      <venue city="Manchester" country="England" id="d4f5816f-3154-4e77-90a3-b431160cbdf6" latitude="53.468533" longitude="-2.378887" name="The AJ Bell Stadium"/>
+    </match>
+    <match coverage="2" id="332449e7-20dd-417b-af4e-1ac99e4f00ca" period="" scheduled="2016-11-20T13:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2017-05-31T21:59:59Z" id="39355ab3-a57c-4726-bc7b-7a3bca4dc84e" name="Pro D2 16/17" start="2016-08-24T22:00:00Z" year="2016"/>
+      <home alias="AUR" id="fa80ee2c-7d3e-4ce8-b698-07a95099f39e" name="Aurillacois" score="31">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="BIA" id="dc6baea6-a48d-4aeb-887c-1efd20b8b061" name="Biarritz" score="20">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue capacity="9000" city="Aurillac" country="France" id="4737c7fe-ce1f-4c48-b715-58f2eef85322" latitude="44.924444" longitude="2.429444" name="Stade Jean Alric"/>
+    </match>
+    <match coverage="2" id="07b728e2-87cd-40e1-9ebc-db8d7cc93d23" period="" scheduled="2016-11-20T14:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="df34f607-1dd6-4b1d-8b82-0ff67ae9789a" name="Four Nations"/>
+      <season end="2016-11-22T22:59:59Z" id="c211dcf5-46bf-4489-b1bc-b0c242a3b48d" name="Four Nations 2016" start="2016-10-27T22:00:00Z" year="2016"/>
+      <home alias="AUS" id="8b3fe1da-63a7-45e7-ba35-7b3c28cdaee6" name="Australia" score="34">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="NZL" id="e93bc753-ea27-4763-b23d-f21b647eb8f7" name="New Zealand" score="8">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="2d703622-5a14-4ba0-8ad7-d1ba3654667f" period="" scheduled="2016-11-20T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="BAY" id="e72e4cc1-1330-4a14-bbed-34a70e4b62c6" name="Bayonne" score="16">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="13">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="16934" city="Bayonne" country="France" id="366aad90-bfcb-47c9-9e2e-0aaf248c1b39" latitude="43.485556" longitude="-1.479167" name="Stade Jean Dauger"/>
+    </match>
+    <match coverage="2" id="dbb0cce1-23b8-472e-8564-ddc096cfdb36" period="" scheduled="2016-11-20T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="25">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue city="Leicester" country="England" id="442e3151-d5e1-4d09-8b2b-044061995030" latitude="52.624167" longitude="-1.133056" name="Welford Road Stadium"/>
+    </match>
+  </matches>
+</boxscore>

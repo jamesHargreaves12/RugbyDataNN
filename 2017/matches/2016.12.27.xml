@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:34Z">
+  <matches>
+    <match coverage="2" id="396addf9-4fac-448b-93d3-b225246dcbbb" period="" scheduled="2016-12-27T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="OSP" id="48daa401-0492-4b07-bcf7-95fc5dbfe15d" name="Ospreys" score="19">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </home>
+      <away alias="SCA" id="e3c0d780-460b-44cf-b126-d5dba29b2e51" name="Scarlets" score="9">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="20827" city="Swansea" country="Wales" id="16073a24-5270-4691-b458-f5124db3decf" latitude="51.6422" longitude="-3.9351" name="Liberty Stadium"/>
+    </match>
+    <match coverage="2" id="617c2c46-78b2-45e0-8bac-6029ddbbe5c4" period="" scheduled="2016-12-27T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="28">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="GLO" id="7ba8abe2-e900-4489-b31c-ccb4d1801605" name="Gloucester" score="24">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="68cef72c-1bd8-45a2-a1c1-b089c92e2a2f" latitude="51.450278" longitude="-0.344167" name="London"/>
+    </match>
+  </matches>
+</boxscore>

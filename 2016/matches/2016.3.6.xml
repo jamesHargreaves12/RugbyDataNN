@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:56Z">
+  <matches>
+    <match coverage="2" id="580c9625-f548-4478-ad0b-159ad16ca633" period="" scheduled="2016-03-06T05:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2016-10-03T21:59:59Z" id="97528c84-d51e-4a45-805e-94afb72cee52" name="NRL 2016" start="2016-02-29T23:00:00Z" year="2016"/>
+      <home alias="SYD" id="f968a2b6-f6e6-443f-92aa-01dca4172d9a" name="Sydney" score="10">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="SSY" id="5d436212-aa03-4d57-ac38-43ceb19f1ef9" name="South Sydney" score="42">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="45500" city="Sydney" country="Australia" id="8cfc052b-2216-4c74-befe-c9b1dbb71742" latitude="-33.889167" longitude="151.225278" name="Allianz Stadium"/>
+    </match>
+    <match coverage="2" id="d0c549db-cb6d-4c8d-860e-b5e11e43b5b9" period="" scheduled="2016-03-06T07:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2016-10-03T21:59:59Z" id="97528c84-d51e-4a45-805e-94afb72cee52" name="NRL 2016" start="2016-02-29T23:00:00Z" year="2016"/>
+      <home alias="GCO" id="51ae35e8-98cf-499f-9fb5-d7ab7372c58b" name="Gold Coast" score="30">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="1315c1bb-2d1e-4081-b8b6-120f7818d3c0" name="Newcastle" score="12">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="27400" city="Robina" country="Australia" id="e38060cc-31c8-4524-9464-b1da668efa21" latitude="-28.066944" longitude="153.378889" name="Robina Stadium"/>
+    </match>
+    <match coverage="2" id="ac832bff-f1aa-4d3c-9926-21eba291be14" period="" scheduled="2016-03-06T13:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="AUR" id="fa80ee2c-7d3e-4ce8-b698-07a95099f39e" name="Aurillacois" score="23">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="BAY" id="e72e4cc1-1330-4a14-bbed-34a70e4b62c6" name="Bayonne" score="10">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="9000" city="Aurillac" country="France" id="4737c7fe-ce1f-4c48-b715-58f2eef85322" latitude="44.924444" longitude="2.429444" name="Stade Jean Alric"/>
+    </match>
+    <match coverage="2" id="00ae653e-ac2f-4cfd-b073-6638dbdfd27c" period="" scheduled="2016-03-06T14:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="OXF" id="43b7aa94-2f74-45de-9bb3-56cfb263e4d1" name="Oxford" score="22">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="4b700176-9114-4a28-9d57-0ad01b3625ab" name="Newcastle" score="30">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="499" city="Oxford" country="England" id="7956c0d9-973e-45f7-93fe-c882e8968a79" name="Iffley Road"/>
+    </match>
+    <match coverage="2" id="28369638-39e9-49f8-9110-910f8fd021c0" period="" scheduled="2016-03-06T14:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="NWC" id="8447df1e-dc47-4837-82c7-ba34b900567d" name="Crusaders" score="18">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="BR" id="33bc9bbc-4a5b-482d-b3ec-0a563b0c14cc" name="Barrow Raiders" score="37">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </away>
+      <venue capacity="15500" city="Wrexham" country="Wales" id="5ad98fe2-ae1b-47fb-ab69-5eef86838d74" latitude="53.051944" longitude="-3.003611" name="Racecourse Ground"/>
+    </match>
+    <match coverage="2" id="b3960d33-fb3f-4d64-b06e-70fdd3d9743d" period="" scheduled="2016-03-06T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="GLA" id="3e8f8a99-a390-4f5b-82f9-1c209c9e1894" name="Glasgow" score="27">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="CAR" id="6a6c61fb-060f-4973-8472-a50ef2770ce8" name="Cardiff" score="20">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </away>
+      <venue city="Glasgow" country="Scotland" id="5820ae57-5c9c-4002-911a-3a97718c998a" latitude="55.881862" longitude="-4.342422" name="Scotstoun Stadium"/>
+    </match>
+    <match coverage="2" id="06f40d5e-f8bb-41f1-aad3-b7e2c72085fe" period="" scheduled="2016-03-06T15:00:00Z" status="postponed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="OLH" id="ffd538c6-a4b1-4d2b-aefa-3615919ecbd3" name="Oldham" score="0">
+      </home>
+      <away alias="BRA" id="cd4e2d6b-1da8-41df-8c97-9498caed62e3" name="Bradford" score="0">
+      </away>
+      <venue capacity="1500" city="Oldham" country="England" id="398d8003-1bd6-4d14-b5d8-7b7256e4bf22" name="Whitebank"/>
+    </match>
+    <match coverage="2" id="119bbd01-ac75-4b7a-b2a1-dbd1e8240dc0" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="FSR" id="f5b17cb1-490e-41eb-a8e1-03980be45883" name="Featherstone" score="21">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="11"/>
+        </scoring>
+      </home>
+      <away alias="DBR" id="f2fecddd-9889-47f4-9ba4-397a80fb82c3" name="Dewsbury" score="20">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="6750" city="Featherstone" country="England" id="58babc00-fc49-4859-9987-58b7d233fdb5" name="Bigfellas Stadium"/>
+    </match>
+    <match coverage="2" id="18baadd6-c353-4c0f-9fcc-1c67524e00c1" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="4b87f74e-5c7b-4f44-937d-adcf6a88b231" name="Super League"/>
+      <season end="2016-10-08T21:59:59Z" id="ef935f42-a9d9-4b1b-b278-f98f6e5de942" name="Super League 2016" start="2016-02-03T23:00:00Z" year="2016"/>
+      <home alias="WAK" id="ac6660cb-8c3e-4f89-b0c3-57f7877403f6" name="Wakefield" score="28">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="CAT" id="0c5af0bd-d449-436e-addb-4576293f4013" name="Catalans" score="42">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="2700" city="Wakefield" country="England" id="0294e83b-a065-4857-9496-c51e200d0c74" latitude="53.669778" longitude="-1.479504" name="The Rapid Solicitors Stadium"/>
+    </match>
+    <match coverage="2" id="45c7775f-acf1-4b06-8ea9-3d622e90a2ee" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="YCK" id="4c356fbb-3258-4298-8576-9567e24362a4" name="York City" score="28">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="LSK" id="8a6e9503-e5ae-40b1-ba43-1d97c3d0667b" name="Skolars" score="12">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue id="74a5f955-cfc5-46ca-957c-c74e6f26fa10"/>
+    </match>
+    <match coverage="2" id="5e7ce259-00dd-4711-9a40-a88aa8540683" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="RDH" id="e09165fb-4a03-4b41-997b-5bb809bf9107" name="Rochdale" score="28">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="HUN" id="7d6482d4-dda2-43f4-8a99-8cd33c31dbc7" name="Hunslet" score="18">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </away>
+      <venue capacity="10249" city="Rochdale" country="England" id="45010b42-fa5b-49db-9d0a-983bd5045aeb" latitude="53.620833" longitude="-2.18" name="Spotland Stadium"/>
+    </match>
+    <match coverage="2" id="8b793b71-5e97-483f-9a87-e29440c8fed1" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="LCT" id="1df3ef39-3940-4c82-b852-db439cb79a71" name="Leigh" score="36">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="SFE" id="a6184a0b-7274-4839-8722-d04aeeb65734" name="Sheffield" score="28">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="11000" city="Leigh" country="England" id="17259e74-1a38-4c44-8baf-6deafe428e30" name="Leigh Sports Village"/>
+    </match>
+    <match coverage="2" id="ba5bf288-9f10-476a-964e-bd63d7dc0ed1" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="LON" id="2304459f-b802-4217-8cb9-cae3697c614f" name="London" score="29">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="HAL" id="d302c4d2-6ac8-4576-8f35-3b66302708e9" name="Halifax" score="22">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="5634" city="London" country="England" id="276bbc6b-bdc9-4cb1-9333-952dadb80230" name="The Hive Stadium"/>
+    </match>
+    <match coverage="2" id="c118ea4d-21bb-4a0e-8935-d48cd047459b" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="SWI" id="ce7034be-a38a-47a9-9605-a29fa3e42cfb" name="South Wales" score="4">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="KCG" id="c3b5a4ae-db13-479b-8d4b-c00a5250ef71" name="Keighley" score="60">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="34"/>
+        </scoring>
+      </away>
+      <venue id="64f0b00c-a0ab-4ca0-916d-9b56d5f3fced"/>
+    </match>
+    <match coverage="2" id="e2bbfcb2-a52a-40e5-b3bc-92435ec6e503" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="DCR" id="622de223-3814-4928-b87f-9d13fdb1a76e" name="Doncaster" score="40">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="GAG" id="ad782a3f-85c9-48b1-8564-e7d9c4c7f017" name="All Golds" score="8">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue capacity="15231" city="Doncaster" country="England" id="4a3992c1-ca48-4b90-8e99-db3fe017668b" latitude="53.509722" longitude="-1.113889" name="Keepmoat Stadium"/>
+    </match>
+    <match coverage="2" id="e84af986-0a8c-4e1d-8d97-3edf3f6dfc31" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="BBD" id="f55d33da-225e-4c7e-b2c1-8943c8321f5b" name="Batley" score="44">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="30"/>
+        </scoring>
+      </home>
+      <away alias="WKT" id="10f566d0-6aa2-4237-bd02-6475739d9f90" name="Workington" score="12">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Batley" country="England" id="07800cb1-06ef-4cdb-b6e4-9b361eeb0e1c" name="Loverugbyleague.com Stadium"/>
+    </match>
+    <match coverage="2" id="f0a21c1d-e329-4447-8f0a-048e6cf49a09" period="" scheduled="2016-03-06T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="31">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter" score="27">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </away>
+      <venue city="Leicester" country="England" id="442e3151-d5e1-4d09-8b2b-044061995030" latitude="52.624167" longitude="-1.133056" name="Welford Road Stadium"/>
+    </match>
+    <match coverage="2" id="77991b4c-33dd-4307-92c5-35529b0dd744" period="" scheduled="2016-03-06T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="LAR" id="69efef3e-0c80-43e5-a067-bd314773c0ca" name="La Rochelle" score="19">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="14">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue capacity="12500" city="La Rochelle" country="France" id="221e3833-396e-4ea2-9e04-b32251d0d117" latitude="46.158056" longitude="-1.178056" name="Stade Marcel-Deflandre"/>
+    </match>
+  </matches>
+</boxscore>

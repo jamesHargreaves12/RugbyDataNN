@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:29Z">
+  <matches>
+    <match coverage="2" id="aba390f6-e01d-4bff-8403-053a1ebc7caf" period="" scheduled="2016-01-03T13:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="BEN" id="429a0b83-c77b-4ed7-91a2-6df4a9c6e477" name="Benetton" score="8">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </home>
+      <away alias="ZEB" id="7dd71d62-cf83-4b55-a4f4-8814ba0e904d" name="Zebre" score="18">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue city="Treviso" country="Italy" id="055194e1-c05a-4515-b8ee-58be6a2fdfd4" latitude="45.680278" longitude="12.213333" name="Stadio Comunale di Monigo"/>
+    </match>
+    <match coverage="2" id="27f886cf-346b-4efe-82cf-800c84a0a108" period="" scheduled="2016-01-03T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="WOR" id="0a252594-8ac4-44cb-bb1a-debfd9df07f8" name="Worcester" score="20">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="24">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Worcester" country="England" id="cbd5ca2c-7635-4687-b0cb-126d7b2fd8e8" latitude="52.215556" longitude="-2.1625" name="Sixways Stadium"/>
+    </match>
+    <match coverage="2" id="31ae0286-5b2a-4c35-9b28-0befdf26cf97" period="" scheduled="2016-01-03T16:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="21">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="17">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="14700" city="Toulon" country="France" id="7ec548ed-e4d6-4dae-9322-b2a28abb7034" latitude="43.118947" longitude="5.936531" name="Stade Mayol"/>
+    </match>
+    <match coverage="2" id="cb4da6bd-5244-4054-a758-f2ed4803a154" period="" scheduled="2016-01-03T20:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="FPA" id="2e6759fd-197d-45b3-a29e-95b735f538e3" name="Stade Francais" score="18">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="17">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </away>
+      <venue city="Issy-les-Moulineaux" country="France" id="e7a8cea7-a49d-4c02-b735-aced96c1f505" latitude="48.681519" longitude="2.373478" name="Stade Jean Bouin"/>
+    </match>
+  </matches>
+</boxscore>

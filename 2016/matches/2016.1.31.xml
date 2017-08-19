@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:37Z">
+  <matches>
+    <match coverage="2" id="269304f1-dbb3-4bd5-9439-099c278eef30" period="" scheduled="2016-01-31T13:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="LOU" id="3962b905-c91b-4728-b6b8-1ae52f58c0a7" name="Lyon Olympique" score="40">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="MDM" id="8bccce41-25dd-4a06-b377-1bc012454608" name="Mont-De-Marsan" score="15">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="8000" city="Lyon" country="France" id="8c4fd0f5-d647-4a7a-a6b1-1485ed866e6f" latitude="45.721328" longitude="4.876014" name="Matmut Stadium"/>
+    </match>
+    <match coverage="2" id="a2fafbe5-6a98-49c5-98c9-c7f0b978f343" period="" scheduled="2016-01-31T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2016-08-28T21:59:59Z" id="bc7f290d-c606-4bd0-a0ae-e5b40ef9e786" name="RFL Challenge Cup 2016" start="2016-01-28T23:00:00Z" year="2016"/>
+      <home alias="WEH" id="e2f37349-31db-43d3-936b-c0d8fae45718" name="West Hull" score="36">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="BRP" id="1dd93bca-bcca-4458-8fa2-afde94d5c9d7" name="British Police" score="4">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="0470fe81-c59d-46c9-88f5-33220dbde9b5" period="" scheduled="2016-01-31T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="OSP" id="48daa401-0492-4b07-bcf7-95fc5dbfe15d" name="Ospreys" score="20">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="GLA" id="3e8f8a99-a390-4f5b-82f9-1c209c9e1894" name="Glasgow" score="20">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="20827" city="Swansea" country="Wales" id="16073a24-5270-4691-b458-f5124db3decf" latitude="51.6422" longitude="-3.9351" name="Liberty Stadium"/>
+    </match>
+    <match coverage="2" id="f7b8906d-7106-4096-9666-92f3bec3dc84" period="" scheduled="2016-01-31T14:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2016-08-28T21:59:59Z" id="bc7f290d-c606-4bd0-a0ae-e5b40ef9e786" name="RFL Challenge Cup 2016" start="2016-01-28T23:00:00Z" year="2016"/>
+      <home alias="BRA" id="d8022c8a-4f78-4185-a89a-e47a95a05d80" name="British Army" score="4">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="SID" id="f4818c05-bdad-4ede-a603-9be3f9e935c1" name="Siddal" score="30">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="0d17c24d-038d-450e-8996-2ecc79f0e339" period="" scheduled="2016-01-31T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="WOR" id="0a252594-8ac4-44cb-bb1a-debfd9df07f8" name="Worcester" score="15">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter" score="30">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue city="Worcester" country="England" id="cbd5ca2c-7635-4687-b0cb-126d7b2fd8e8" latitude="52.215556" longitude="-2.1625" name="Sixways Stadium"/>
+    </match>
+    <match coverage="2" id="1d8938a1-46dc-4af9-9f81-e82cb4ac7580" period="" scheduled="2016-01-31T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="26">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="19">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue city="Newcastle upon Tyne" country="England" id="57c6ffba-6ac1-4801-8197-2141f85565d2" latitude="55.018611" longitude="-1.672222" name="Kingston Park"/>
+    </match>
+    <match coverage="2" id="c3b74cc7-d36e-4e07-9399-aead3e86f00f" period="" scheduled="2016-01-31T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="23">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="FPA" id="2e6759fd-197d-45b3-a29e-95b735f538e3" name="Stade Francais" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="14700" city="Toulon" country="France" id="7ec548ed-e4d6-4dae-9322-b2a28abb7034" latitude="43.118947" longitude="5.936531" name="Stade Mayol"/>
+    </match>
+  </matches>
+</boxscore>

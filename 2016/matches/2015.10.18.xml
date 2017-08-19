@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:22:58Z">
+  <matches>
+    <match coverage="1" id="9bf0572c-e7c1-47bc-8e42-a4097963c353" period="" scheduled="2015-10-18T12:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="b3e64006-2b66-4608-be87-15f2841cb3ae" name="World Cup"/>
+      <season end="2015-11-01T22:59:00Z" id="973197fc-5f9c-4adb-8fc9-d15d2f22fb5c" name="World Cup 2015" start="2015-09-17T22:00:00Z" year="2015"/>
+      <home alias="IRL" id="94e3b4d3-5c4a-4a0a-96ad-d1e0ea9e55c0" name="Ireland" score="20">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="ARG" id="6a6bed12-fa3f-4ebd-9a40-eed755d58866" name="Argentina" score="43">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="23"/>
+        </scoring>
+      </away>
+      <venue capacity="74500" city="Cardiff" country="Wales" id="71e19bca-154e-4ea6-b31c-af741a7500e2" name="Millennium"/>
+    </match>
+    <match coverage="2" id="6e1b5336-d1a5-4d0c-8e3b-07ad8f7a2bb7" period="" scheduled="2015-10-18T14:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LOI" id="10fb7561-94de-407d-9f32-39a5af5171ac" name="London Irish" score="16">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="28">
+        <scoring>
+          <period number="1" points="19"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </away>
+      <venue capacity="24161" city="Reading" country="England" id="60e8ac33-a25c-40f4-9d00-e8117eb3857b" latitude="51.422222" longitude="-0.982778" name="Madejski Stadium"/>
+    </match>
+    <match coverage="1" id="18d4ff08-4f61-498a-a580-f36ed1a435cb" period="" scheduled="2015-10-18T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="b3e64006-2b66-4608-be87-15f2841cb3ae" name="World Cup"/>
+      <season end="2015-11-01T22:59:00Z" id="973197fc-5f9c-4adb-8fc9-d15d2f22fb5c" name="World Cup 2015" start="2015-09-17T22:00:00Z" year="2015"/>
+      <home alias="AUS" id="732a1e15-7fae-4607-ae73-4ea118475eed" name="Australia" score="35">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </home>
+      <away alias="SCO" id="dceae27e-9f33-4ec0-9f1d-c820c953fac1" name="Scotland" score="34">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="82000" city="London" country="England" id="b343fadb-4b39-45c2-bf4a-b069326276a4" name="Twickenham"/>
+    </match>
+  </matches>
+</boxscore>

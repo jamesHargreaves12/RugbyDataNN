@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:22Z">
+  <matches>
+    <match coverage="2" id="a5b77269-6e8f-4d15-8a9f-bbdc70336998" period="" scheduled="2015-12-06T13:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="NAR" id="f0672782-b24b-4c5e-82da-149838cd93fd" name="Narbonne" score="41">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="PER" id="277e7c72-a7cc-4c7d-8234-cd9742eacadc" name="Perpignan" score="8">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue capacity="12000" city="Narbonne" country="France" id="4d7d6fd6-075b-4148-ad77-a20e0736c378" latitude="43.181389" longitude="3.019444" name="Parc des Sports Et de l'Amitie"/>
+    </match>
+    <match coverage="2" id="ba117367-6668-4857-a757-a9dc1e11ace5" period="" scheduled="2015-12-06T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="ZEB" id="7dd71d62-cf83-4b55-a4f4-8814ba0e904d" name="Zebre" score="22">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="OSP" id="48daa401-0492-4b07-bcf7-95fc5dbfe15d" name="Ospreys" score="39">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </away>
+      <venue city="Parma" country="Italy" id="5828e849-3f7e-4461-9892-34592e4cb6b4" latitude="44.825087" longitude="10.333006" name="Stadio XXV Aprile"/>
+    </match>
+    <match coverage="2" id="2d14c67c-f61c-4b05-9740-ecf8babd2096" period="" scheduled="2015-12-06T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="NPT" id="ae72c0f6-9103-422c-bff7-102cdfbef3e6" name="NG Dragons" score="22">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="MUN" id="6401a81a-6cce-43a0-a3ae-df4ab3ca525d" name="Munster" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="7850" city="Newport" country="Wales" id="087d2c64-f67b-4743-84f0-9bffdd2ef9b1" latitude="51.588333" longitude="-2.987778" name="Rodney Parade"/>
+    </match>
+    <match coverage="2" id="f30d16fb-7028-4252-b12c-ea30551e0293" period="" scheduled="2015-12-06T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="3">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="38">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="25"/>
+        </scoring>
+      </away>
+      <venue city="Newcastle upon Tyne" country="England" id="57c6ffba-6ac1-4801-8197-2141f85565d2" latitude="55.018611" longitude="-1.672222" name="Kingston Park"/>
+    </match>
+    <match coverage="2" id="dafe69f9-8f7b-4be6-959c-9f67abd43901" period="" scheduled="2015-12-06T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="BRI" id="095885cc-0872-4c1d-adbd-0f0545fd85cf" name="Brive" score="21">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="CLE" id="961ac156-ff5c-4e7e-ae0d-bb09296e0576" name="Clermont" score="26">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="16000" city="Brive-la-Gaillarde" country="France" id="8879d73d-decc-4a19-b6dd-2b76b8726957" latitude="45.161667" longitude="1.548611" name="Stade Amedee-Domenech"/>
+    </match>
+  </matches>
+</boxscore>

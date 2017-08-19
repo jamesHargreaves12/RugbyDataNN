@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:19Z">
+  <matches>
+    <match coverage="2" id="2063087f-0ba0-4195-bbe4-62e4464a50a1" period="" scheduled="2015-12-04T18:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="BIA" id="dc6baea6-a48d-4aeb-887c-1efd20b8b061" name="Biarritz" score="44">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="28"/>
+        </scoring>
+      </home>
+      <away alias="MDM" id="8bccce41-25dd-4a06-b377-1bc012454608" name="Mont-De-Marsan" score="8">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue capacity="15000" city="Biarritz" country="France" id="1b0a87a7-63fa-49dd-9d87-168e99c1e4b4" latitude="43.48183" longitude="-1.53769" name="Parc des Sports d'Aguilera"/>
+    </match>
+    <match coverage="2" id="4ee0fc4c-fd67-463c-aa3c-63db619bd096" period="" scheduled="2015-12-04T18:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="MOG" id="04b8cdee-38b5-4df8-bad2-70070a7f91bd" name="Mogliano" score="14">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="CAL" id="b0374943-2fc2-48ea-9472-1e9d8eb6efe1" name="Calvisano" score="24">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="786" city="Mogliano Veneto" country="Italy" id="6c37c5ed-26a9-40e8-9aac-8df3230e855d" latitude="45.556282" longitude="12.243495" name="Stadio Maurizio Quaggia"/>
+    </match>
+    <match coverage="2" id="0b7ceb58-aa24-4015-9334-a494c6f19996" period="" scheduled="2015-12-04T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="PRO" id="254b557e-a0a8-4b91-af1a-1b7e0b5d783c" name="Provence" score="15">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="COL" id="e0bf4be2-f54a-4e38-820f-00cb7ceb0328" name="Colomiers" score="22">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="4000" city="Aix-en-Provence" country="France" id="fb9b9976-d477-4d4f-8742-cfcaf42b635c" latitude="43.527714" longitude="5.422822" name="Stade Maurice David"/>
+    </match>
+    <match coverage="2" id="40e3a53e-9639-4da7-bc0a-b4800edc0a60" period="" scheduled="2015-12-04T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="CAR" id="47e21bf8-9618-470f-af41-734f8c55e4b8" name="Carcassonne" score="24">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </home>
+      <away alias="AUR" id="fa80ee2c-7d3e-4ce8-b698-07a95099f39e" name="Aurillacois" score="3">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="Carcassonne" country="France" id="51706f07-9ac5-4c86-aa17-cf31f4a3ff32" latitude="43.217778" longitude="2.364444" name="Stade d'Albert Domec"/>
+    </match>
+    <match coverage="2" id="5300fd39-bb00-4316-847c-f8e2a7f089b3" period="" scheduled="2015-12-04T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="TPR" id="44bc606f-510e-4e3f-bccb-7112b028dd5d" name="Tarbes Pyrenees" score="12">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="ALB" id="af1bec3d-fda7-4237-be9a-3dee730fc5f5" name="Albi" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="16400" city="Tarbes" country="France" id="1842f275-5ac9-465d-ae3e-0c7a79d2bb2e" latitude="43.22" longitude="0.075833" name="Stade Maurice Trelut"/>
+    </match>
+    <match coverage="2" id="b2158bc3-5eed-4891-a123-80cc1fd4e81c" period="" scheduled="2015-12-04T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="MON" id="01fbccab-1df7-4d5b-976b-a042b110e370" name="Montauban" score="20">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="DAX" id="30b271b6-e9c0-4941-9e59-f9df6d476777" name="Dax" score="26">
+        <scoring>
+          <period number="1" points="23"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="11500" city="Montauban" country="France" id="cb839792-01ba-499c-a3ec-75dcfb3cb191" name="Stade Sapiac"/>
+    </match>
+    <match coverage="2" id="d73a5586-8495-4bae-83cd-136cf174651a" period="" scheduled="2015-12-04T18:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="BEZ" id="43a8c836-c50e-426b-9be7-879ed93130cd" name="Beziers" score="46">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="33"/>
+        </scoring>
+      </home>
+      <away alias="BOU" id="174fdc29-16eb-4231-9dd2-f36ca9877088" name="Bourgoin-Jallieu" score="0">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="18555" city="Beziers" country="France" id="ae3429e1-4221-458c-9fb9-7f008d86b9e3" latitude="43.334722" longitude="3.266111" name="Stade de la Mediterranee"/>
+    </match>
+    <match coverage="2" id="3359034b-91c4-49f9-8173-9395c34afbac" period="" scheduled="2015-12-04T19:05:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="CAR" id="6a6c61fb-060f-4973-8472-a50ef2770ce8" name="Cardiff" score="20">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="CON" id="8dc17c77-7e0e-4a84-bc57-b88d470836be" name="Connacht" score="16">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue city="Cardiff" country="Wales" id="da9cce70-3bf5-44f8-8f82-2aeff5e87754" latitude="51.479722" longitude="-3.183611" name="Cardiff Arms Park"/>
+    </match>
+    <match coverage="2" id="58dc492f-3629-4d58-9726-a479d02331fb" period="" scheduled="2015-12-04T19:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="ULS" id="852b1dd7-74fa-4915-bdc5-eb5e60ea1b74" name="Ulster" score="14">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="EDI" id="b21d06a4-e819-4a47-bbf2-75ae6115ad83" name="Edinburgh" score="7">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Belfast" country="Northern Ireland" id="ddcbfd3b-5b47-43b7-be08-cc023553257b" latitude="54.57658" longitude="-5.904423" name="Ravenhill"/>
+    </match>
+    <match coverage="2" id="236e3aba-6063-4578-ad47-20baede20f88" period="" scheduled="2015-12-04T19:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="GLO" id="7ba8abe2-e900-4489-b31c-ccb4d1801605" name="Gloucester" score="23">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="19">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="11"/>
+        </scoring>
+      </away>
+      <venue city="Gloucester" country="England" id="4f599bd3-3c58-4326-a359-4d48400079dd" latitude="51.871667" longitude="-2.242778" name="Kingsholm Stadium"/>
+    </match>
+    <match coverage="2" id="2fb2cab6-aba9-4238-bb90-89f20353bd91" period="" scheduled="2015-12-04T19:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="15">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="RME" id="77f6c3b5-4ead-4697-b9ba-74ebbff839c5" name="Racing-Metro" score="15">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </away>
+      <venue capacity="13819" city="Pau" country="France" id="61a93c9f-4492-4fb9-aec3-5d0c1b612d85" latitude="43.309444" longitude="-0.316944" name="Stade du Hameau"/>
+    </match>
+  </matches>
+</boxscore>

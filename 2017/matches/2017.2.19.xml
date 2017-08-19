@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:49Z">
+  <matches>
+    <match coverage="2" id="25089918-9f61-4c9e-856b-3d3438b2c063" period="" scheduled="2017-02-19T11:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="BEG" id="91190ecf-03e9-46b2-9624-9901f4ad53a7" name="B. Bordeaux" score="17">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="CAS" id="9f5704a0-d2d8-445c-8da0-04515a2da467" name="Castres" score="29">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="Begles" country="France" id="bb3b1da4-6794-49ca-aa90-6bb8a3777ffb" latitude="44.805283" longitude="-0.552494" name="Stade Andre Moga"/>
+    </match>
+    <match coverage="2" id="6fffe718-d8d8-4569-a1b7-d7eed959cf52" period="" scheduled="2017-02-19T13:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2017-05-31T21:59:59Z" id="39355ab3-a57c-4726-bc7b-7a3bca4dc84e" name="Pro D2 16/17" start="2016-08-24T22:00:00Z" year="2016"/>
+      <home alias="PER" id="277e7c72-a7cc-4c7d-8234-cd9742eacadc" name="Perpignan" score="37">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="AGE" id="76cf514f-b2be-4035-bbcc-33aee47e9a01" name="Agen" score="20">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="16593" city="Perpignan" country="France" id="2bea9e56-41cd-4e97-977d-20c3a0310c31" latitude="42.715278" longitude="2.891389" name="Stade Aime Giral"/>
+    </match>
+    <match coverage="2" id="3b7f6b01-9215-4f71-9bba-8f02b70f1a1c" period="" scheduled="2017-02-19T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2017-05-31T21:59:59Z" id="6669e7f8-a4a3-475e-a9c9-f2404e412486" name="RFL League 1 Cup 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="WHW" id="93e4ff43-6d9b-4b60-be6c-72cfc67cfbcb" name="Whitehaven" score="6">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="WKT" id="10f566d0-6aa2-4237-bd02-6475739d9f90" name="Workington" score="22">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Whitehaven" country="England" id="da26b2aa-64c3-446b-8f03-0452de556902" name="The Recreation Ground"/>
+    </match>
+    <match coverage="2" id="cdfb3b2a-bce5-4167-b64c-a9c8cbfaba98" period="" scheduled="2017-02-19T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2017-05-31T21:59:59Z" id="6669e7f8-a4a3-475e-a9c9-f2404e412486" name="RFL League 1 Cup 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="HEM" id="515375ee-e8c7-4ddc-8164-37a1da6ce1bd" name="Stags" score="12">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="GAG" id="ad782a3f-85c9-48b1-8564-e7d9c4c7f017" name="All Golds" score="48">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="38"/>
+        </scoring>
+      </away>
+      <venue capacity="2000" city="Hemel Hempstead" country="England" id="17e9072d-c708-4bdf-8655-be9b36913d90" name="Pennine Way"/>
+    </match>
+    <match coverage="2" id="05e7e465-cbf1-4734-84c6-771e6974faf2" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="BBD" id="f55d33da-225e-4c7e-b2c1-8943c8321f5b" name="Batley" score="6">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="FSR" id="f5b17cb1-490e-41eb-a8e1-03980be45883" name="Featherstone" score="32">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Batley" country="England" id="07800cb1-06ef-4cdb-b6e4-9b361eeb0e1c" name="Loverugbyleague.com Stadium"/>
+    </match>
+    <match coverage="2" id="0bde79c4-604e-46ed-9317-a11ba255c92b" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="46">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="31"/>
+        </scoring>
+      </home>
+      <away alias="NHA" id="2e31b0db-cbad-4580-9adb-8a92f586cb17" name="Northampton" score="31">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Newcastle upon Tyne" country="England" id="57c6ffba-6ac1-4801-8197-2141f85565d2" latitude="55.018611" longitude="-1.672222" name="Kingston Park"/>
+    </match>
+    <match coverage="2" id="31943589-681d-4fca-a012-5e01f111be82" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2017-05-31T21:59:59Z" id="6669e7f8-a4a3-475e-a9c9-f2404e412486" name="RFL League 1 Cup 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="YCK" id="4c356fbb-3258-4298-8576-9567e24362a4" name="York City" score="16">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="NWC" id="8447df1e-dc47-4837-82c7-ba34b900567d" name="Crusaders" score="17">
+        <scoring>
+          <period number="1" points="4"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue id="74a5f955-cfc5-46ca-957c-c74e6f26fa10"/>
+    </match>
+    <match coverage="2" id="5db341e9-8fdb-483c-bbea-55734b1c7c59" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="34">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="28">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </away>
+      <venue city="Manchester" country="England" id="d4f5816f-3154-4e77-90a3-b431160cbdf6" latitude="53.468533" longitude="-2.378887" name="The AJ Bell Stadium"/>
+    </match>
+    <match coverage="2" id="67891368-5387-47b5-b8d0-85a33c8086f6" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="OLH" id="ffd538c6-a4b1-4d2b-aefa-3615919ecbd3" name="Oldham" score="18">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="LON" id="2304459f-b802-4217-8cb9-cae3697c614f" name="London" score="20">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue id="e1362e6b-ecc0-4981-95b5-aa8201f464de"/>
+    </match>
+    <match coverage="2" id="7334b578-26f9-4040-b084-02d4a72fe4e6" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="SWL" id="e935a299-c20e-43fd-bf2d-d4d9b295fc70" name="Swinton" score="28">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="BRA" id="cd4e2d6b-1da8-41df-8c97-9498caed62e3" name="Bradford" score="35">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue city="Whitefield" country="England" id="7f993441-a851-4faa-95e1-52a0cf8ceaf0" name="Parklane"/>
+    </match>
+    <match coverage="2" id="87298d01-e1b2-40fc-bcfc-53120ff2ffac" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="RDH" id="e09165fb-4a03-4b41-997b-5bb809bf9107" name="Rochdale" score="18">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="HKR" id="156ddc29-5613-43d8-ba3d-21a5f1422a1f" name="Hull Kingston" score="28">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="10249" city="Rochdale" country="England" id="45010b42-fa5b-49db-9d0a-983bd5045aeb" latitude="53.620833" longitude="-2.18" name="Spotland Stadium"/>
+    </match>
+    <match coverage="2" id="9775db15-9071-4db4-9926-c2b081063ec8" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2017-05-31T21:59:59Z" id="6669e7f8-a4a3-475e-a9c9-f2404e412486" name="RFL League 1 Cup 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="HUN" id="7d6482d4-dda2-43f4-8a99-8cd33c31dbc7" name="Hunslet" score="10">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="NEW" id="4b700176-9114-4a28-9d57-0ad01b3625ab" name="Newcastle" score="34">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="4000" city="Leeds" country="England" id="e24e9573-7947-4f92-8a7b-5a6a171fdf04" name="South Leeds Stadium"/>
+    </match>
+    <match coverage="2" id="c5d7f6a0-c506-41ef-ac84-5b31f8cb2f57" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2017-05-31T21:59:59Z" id="6669e7f8-a4a3-475e-a9c9-f2404e412486" name="RFL League 1 Cup 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="SWI" id="ce7034be-a38a-47a9-9605-a29fa3e42cfb" name="South Wales" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="LSK" id="8a6e9503-e5ae-40b1-ba43-1d97c3d0667b" name="Skolars" score="24">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </away>
+      <venue id="329b6a26-eb83-4aff-81fe-554c33029fcb"/>
+    </match>
+    <match coverage="2" id="d00c1d12-90db-4e71-814b-5d7bc66f8657" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2017-10-31T22:59:59Z" id="4bfa2c14-c67f-4f93-b0b1-a045ad0a6d32" name="RFL Championship 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="HAL" id="d302c4d2-6ac8-4576-8f35-3b66302708e9" name="Halifax" score="42">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="SFE" id="a6184a0b-7274-4839-8722-d04aeeb65734" name="Sheffield" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="14061" city="Halifax" country="England" id="1dfc7fed-eb43-404e-bbf0-e1b9acfcfb29" latitude="53.716111" longitude="-1.859167" name="The Shay"/>
+    </match>
+    <match coverage="2" id="e5a17b22-67ec-4aab-87c5-09f5db942160" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2017-05-31T21:59:59Z" id="6669e7f8-a4a3-475e-a9c9-f2404e412486" name="RFL League 1 Cup 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="KCG" id="c3b5a4ae-db13-479b-8d4b-c00a5250ef71" name="Keighley" score="30">
+        <scoring>
+          <period number="1" points="4"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="DCR" id="622de223-3814-4928-b87f-9d13fdb1a76e" name="Doncaster" score="22">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="7800" city="Keighley" country="England" id="62c36e37-38b7-4fcd-bae4-97ca096a83ad" name="Cougar Park"/>
+    </match>
+    <match coverage="2" id="fc58c3ed-9510-4de3-94d6-22f3caf4c977" period="" scheduled="2017-02-19T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="953c36f3-2842-4609-9a61-56a05f5ea225" name="World Club Challenge"/>
+      <season end="2017-02-20T22:59:59Z" id="fce376e3-af40-4c63-99c6-dc03d2927ef7" name="World Club Challenge 2017" start="2017-02-16T23:00:00Z" year="2017"/>
+      <home alias="WGW" id="93bb97c7-1eb9-48f6-91ac-7a5f05c41c9c" name="Wigan" score="22">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="CRO" id="91ed5441-fc3d-4d86-a34e-90bf42a32744" name="Cronulla" score="6">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="25138" city="Wigan" country="England" id="1aa1ca4a-d0d1-4cce-ad54-d7b461ee8836" latitude="53.547367" longitude="-2.654146" name="DW Stadium"/>
+    </match>
+    <match coverage="2" id="bce54fe5-e394-414c-9d9f-306988a6aac4" period="" scheduled="2017-02-19T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="MON" id="997612ac-b8d2-42f9-9ef0-a24ea70ebc8e" name="Montpellier" score="27">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="18">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </away>
+      <venue capacity="15000" city="Montpellier" country="France" id="067457c2-ca5c-4d52-8682-0a82dff11cc4" latitude="43.593229" longitude="3.849585" name="Stade Yves-du-Manoir"/>
+    </match>
+  </matches>
+</boxscore>

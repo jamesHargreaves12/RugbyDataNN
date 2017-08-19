@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:19Z">
+  <matches>
+    <match coverage="2" id="e70c4de0-aaa9-4f77-b973-580c02b27296" period="" scheduled="2016-11-19T13:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="CAS" id="9f5704a0-d2d8-445c-8da0-04515a2da467" name="Castres" score="34">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </home>
+      <away alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="17">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue capacity="11500" city="Castres" country="France" id="dc71ae45-2314-43ac-a336-f6a7c4bb0f7f" latitude="43.6109" longitude="2.25274" name="Stade Pierre-Antoine"/>
+    </match>
+    <match coverage="2" id="3ac15a7e-06c3-44e9-9cbd-80fe9143940f" period="" scheduled="2016-11-19T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="CLE" id="961ac156-ff5c-4e7e-ae0d-bb09296e0576" name="Clermont" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="LOU" id="3962b905-c91b-4728-b6b8-1ae52f58c0a7" name="Lyon Olympique" score="13">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="16610" city="Clermont-Ferrand" country="France" id="18abe33a-501d-424d-b99e-8cfb1438b949" latitude="45.789444" longitude="3.106111" name="Stade Marcel-Michelin"/>
+    </match>
+    <match coverage="2" id="89cc7411-f6fe-4582-b6e4-af90dc0d11bc" period="" scheduled="2016-11-19T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="BEG" id="91190ecf-03e9-46b2-9624-9901f4ad53a7" name="B. Bordeaux" score="26">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </home>
+      <away alias="LAR" id="69efef3e-0c80-43e5-a067-bd314773c0ca" name="La Rochelle" score="0">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="Begles" country="France" id="bb3b1da4-6794-49ca-aa90-6bb8a3777ffb" latitude="44.805283" longitude="-0.552494" name="Stade Andre Moga"/>
+    </match>
+    <match coverage="2" id="b7decf3a-d70d-4ca4-9c94-6c9f55fc8cb3" period="" scheduled="2016-11-19T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="RME" id="77f6c3b5-4ead-4697-b9ba-74ebbff839c5" name="Racing-Metro" score="29">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="GRE" id="48ad37ec-3c12-4ce5-aa85-2f108fbf739b" name="Grenoble" score="24">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="7000" city="Colombes" country="France" id="e6e094ba-f2a6-424a-956e-75843b43d044" latitude="48.929444" longitude="2.248056" name="Stade Olympique Yves-du-Manoir"/>
+    </match>
+    <match coverage="2" id="ea921bd7-05ea-474d-96eb-18eba83f110b" period="" scheduled="2016-11-19T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="BRI" id="095885cc-0872-4c1d-adbd-0f0545fd85cf" name="Brive" score="38">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="25"/>
+        </scoring>
+      </home>
+      <away alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="25">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </away>
+      <venue capacity="16000" city="Brive-la-Gaillarde" country="France" id="8879d73d-decc-4a19-b6dd-2b76b8726957" latitude="45.161667" longitude="1.548611" name="Stade Amedee-Domenech"/>
+    </match>
+    <match coverage="2" id="33147761-fe33-424b-9837-d3d707cc3add" period="" scheduled="2016-11-19T16:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="GLO" id="7ba8abe2-e900-4489-b31c-ccb4d1801605" name="Gloucester" score="36">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="18">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue city="Gloucester" country="England" id="4f599bd3-3c58-4326-a359-4d48400079dd" latitude="51.871667" longitude="-2.242778" name="Kingsholm Stadium"/>
+    </match>
+  </matches>
+</boxscore>

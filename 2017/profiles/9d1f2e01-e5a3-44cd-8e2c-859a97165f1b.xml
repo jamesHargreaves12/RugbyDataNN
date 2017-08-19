@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><profile xmlns="http://feed.elasticstats.com/schema/rugby/v1/teams-profile.xsd" generated="2017-08-12T13:16:56Z">
+  <team alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter">
+    <roster>
+      <player birth_date="1989-12-21" country="England" country_code="ENG" first_name="Jack" full_name="Yeandle, Jack" id="01e6603e-96af-4cd4-a24a-1586f19224a5" last_name="Yeandle"/>
+      <player birth_date="1993-03-18" country="England" country_code="ENG" first_name="Henry" full_name="Slade, Henry" id="020a2891-5a83-4e5c-ac26-d80413de750c" last_name="Slade"/>
+      <player birth_date="1994-11-09" country="England" country_code="ENG" first_name="Sam" full_name="Simmonds, Sam" id="05cda30c-68b7-4e34-8e74-3949853a399a" last_name="Simmonds"/>
+      <player birth_date="1993-03-12" country="Italy" country_code="ITA" first_name="Michele" full_name="Campagnaro, Michele" id="084e19d1-9d2e-43c4-8b84-0e979bbb944d" last_name="Campagnaro"/>
+      <player birth_date="1990-02-13" country="Wales" country_code="WAL" first_name="Adam" full_name="Hughes, Adam" id="0ab1fcd4-2178-465f-9f65-92186b0a69cd" last_name="Hughes"/>
+      <player birth_date="1985-05-14" country="Wales" country_code="WAL" first_name="Phil" full_name="Dollman, Phil" id="0b36ec1a-5de7-4504-98aa-941206bc941f" last_name="Dollman"/>
+      <player first_name="Marcus" full_name="Street, Marcus" id="0e53e0dd-920f-429e-b40e-d5d5579a4dca" last_name="Street"/>
+      <player birth_date="1987-04-16" country="Wales" country_code="WAL" first_name="Tom" full_name="James, Tom" id="0eb3c976-aa2c-4561-81ac-585b7161402b" last_name="James"/>
+      <player birth_date="1993-01-19" country="Republic of Ireland" country_code="IRL" first_name="Jerry" full_name="Sexton, Jerry" id="0ef9d4d7-4296-4fe8-938c-8e37b538515c" last_name="Sexton"/>
+      <player birth_date="1994-08-31" country="New Zealand" country_code="NZL" first_name="Tom" full_name="Hendrickson, Tom" id="110a67c7-e7ae-42d2-8daa-32e09c8b87a6" last_name="Hendrickson"/>
+      <player birth_date="1995-02-02" country="Scotland" country_code="SCO" first_name="Jack" full_name="Owlett, Jack" id="180033b8-292c-4f45-b711-58fdeda31bc7" last_name="Owlett"/>
+      <player birth_date="1987-05-10" country="Australia" country_code="AUS" first_name="Lachie" full_name="Turner, Lachie" height_cm="189" height_in="74" id="185f2c86-dff2-474f-a5e9-fccf3601864d" last_name="Turner" weight_kg="94" weight_lb="207"/>
+      <player birth_date="1983-11-22" country="Australia" country_code="AUS" first_name="Ben" full_name="White, Ben" id="19774380-6edc-4d0b-b29c-4833bcb415f3" last_name="White"/>
+      <player birth_date="1994-09-08" country="England" country_code="ENG" first_name="Max" full_name="Bodilly, Max" id="19861c02-81da-4eb2-a1f7-f5b1acec577f" last_name="Bodilly"/>
+      <player birth_date="1982-09-16" country="England" country_code="ENG" first_name="Haydn" full_name="Thomas, Haydn" id="1f1cc487-2934-42d8-a399-9746f3bbc303" last_name="Thomas"/>
+      <player first_name="Will" full_name="Norton, Will" id="2263a91c-cb9b-43a0-adf9-69c24754a3cd" last_name="Norton"/>
+      <player birth_date="1993-06-19" country="England" country_code="ENG" first_name="Luke" full_name="Cowan-Dickie, Luke" id="243e4aab-6b31-4348-9502-98aac13a4a64" last_name="Cowan-Dickie"/>
+      <player birth_date="1993-11-27" country="England" country_code="ENG" first_name="Will" full_name="Hooley, Will" id="26f64c14-3292-4f6f-8b9f-c80528d69600" last_name="Hooley"/>
+      <player birth_date="1996-12-18" country="England" country_code="ENG" first_name="Joe" full_name="Simmonds, Joe" id="28c0befb-d2de-4f77-9274-d3fc51b009d7" last_name="Simmonds"/>
+      <player birth_date="1993-07-13" country="England" country_code="ENG" first_name="Sam" full_name="Hill, Sam" height_cm="184" height_in="72" id="28c8a4fd-763c-45b3-b687-06399baad52e" last_name="Hill" weight_kg="98" weight_lb="216"/>
+      <player country="England" country_code="ENG" first_name="Laurence" full_name="May, Laurence" id="2ca0465b-ccb7-4ee5-9efc-4070629bdf9d" last_name="May"/>
+      <player birth_date="1988-08-11" country="Australia" country_code="AUS" first_name="Ollie" full_name="Atkins, Ollie" id="2cc4e55c-8690-492c-9e10-aef9e5565c8c" last_name="Atkins"/>
+      <player birth_date="1984-04-03" country="England" country_code="ENG" first_name="Matt" full_name="Jess, Matt" id="3566e5a0-1f0b-4bfc-86d9-8c376a8cc88b" last_name="Jess"/>
+      <player birth_date="1981-09-20" country="Zimbabwe" country_code="ZIM" first_name="Kai" full_name="Horstmann, Kai" id="377ee1ab-f003-49ad-9fc8-68e9a7f7186a" last_name="Horstmann"/>
+      <player first_name="Lewis" full_name="Davey, Lewis" id="39149709-5415-4902-b9d8-f479ac580fa7" last_name="Davey"/>
+      <player birth_date="1995-07-02" country="England" country_code="ENG" first_name="Jack" full_name="Innard, Jack" height_cm="180" height_in="70" id="392c6b6e-e4d7-4b29-8548-9e542d0b08cd" last_name="Innard" weight_kg="98" weight_lb="216"/>
+      <player birth_date="1981-10-15" country="Australia" country_code="AUS" first_name="Patrick" full_name="Phibbs, Patrick" id="3ac55e2a-4fb0-4968-83b2-93c83092d49c" last_name="Phibbs"/>
+      <player birth_date="1988-10-11" country="Australia" country_code="AUS" first_name="Mitch" full_name="Lees, Mitch" height_cm="196" height_in="77" id="3b7a41c2-a3fe-480c-b006-8cd08bf4afba" last_name="Lees" weight_kg="120" weight_lb="264"/>
+      <player birth_date="1997-01-06" country="England" country_code="ENG" first_name="Jack" full_name="Stanley, Jack" id="40b30e15-f758-48c5-a27c-ef9861f47145" last_name="Stanley"/>
+      <player birth_date="1980-09-29" country="Fiji" country_code="FIJ" first_name="Sireli" full_name="Naqelevuki, Sireli" id="4151a86f-9444-4066-847e-756c86ea49a4" last_name="Naqelevuki"/>
+      <player birth_date="1984-08-31" country="Northern Ireland" country_code="NIR" first_name="Ryan" full_name="Caldwell, Ryan" id="41dc2195-85ff-44d1-b0ee-ce9690d143b5" last_name="Caldwell"/>
+      <player first_name="Dave" full_name="Lewis, Dave" id="448f0b36-604e-49d6-8817-4bd5f62d3fe6" last_name="Lewis"/>
+      <player birth_date="1988-09-22" country="Zimbabwe" country_code="ZIM" first_name="Don" full_name="Armand, Don" height_cm="190" height_in="74" id="495d64c8-4c6c-454e-a940-b5eba571c893" last_name="Armand" weight_kg="110" weight_lb="242"/>
+      <player birth_date="1993-09-01" country="England" country_code="ENG" first_name="Jack" full_name="Arnott, Jack" id="4b37df51-3eeb-4e66-b440-0b188d5deb32" last_name="Arnott"/>
+      <player birth_date="1982-07-15" country="England" country_code="ENG" first_name="Tom" full_name="Johnson, Tom" id="5390483a-3c54-4ece-bb2e-2105a0c6a3f6" last_name="Johnson"/>
+      <player birth_date="1984-05-31" country="Northern Ireland" country_code="NIR" first_name="Lewis" full_name="Stevenson, Lewis" height_cm="201" height_in="79" id="5b099f3a-12b0-4547-9791-186924bb5c5b" last_name="Stevenson" weight_kg="114" weight_lb="251"/>
+      <player birth_date="1993-04-10" country="England" country_code="ENG" first_name="Jack" full_name="Nowell, Jack" id="5d455717-1d8f-4210-b49b-efa63098859c" last_name="Nowell"/>
+      <player birth_date="1989-08-19" country="Namibia" country_code="NAM" first_name="Byron" full_name="McGuigan, Byron" id="5d813d91-8591-490f-b8b3-61c468eab303" last_name="McGuigan"/>
+      <player first_name="Tom" full_name="Lawday, Tom" id="5e639498-709f-48a0-93cb-a2654cf380fd" last_name="Lawday"/>
+      <player birth_date="1984-11-27" country="Scotland" country_code="SCO" first_name="Moray" full_name="Low, Moray" id="69ed4dbb-4084-489c-bd59-f82738013701" last_name="Low"/>
+      <player birth_date="1992-07-23" country="Australia" country_code="AUS" first_name="Alec" full_name="Hepburn, Alec" height_cm="186" height_in="73" id="6ab58b04-50fe-4b6a-b585-46dc35febca2" last_name="Hepburn" weight_kg="108" weight_lb="238"/>
+      <player birth_date="1989-04-28" country="England" country_code="ENG" first_name="Dave" full_name="Lewis, Dave" id="6ece5d49-68d9-4510-b7cb-a1aa7c99d0aa" last_name="Lewis"/>
+      <player birth_date="1986-01-09" country="Australia" country_code="AUS" first_name="David" full_name="Dennis, David" id="6f903f4a-2242-4205-a1a2-8c11ad1a40a6" last_name="Dennis"/>
+      <player birth_date="1997-06-11" country="England" country_code="ENG" first_name="Harry" full_name="Strong, Harry" id="715cc312-a715-4daf-aa6d-7fab66f706f9" last_name="Strong"/>
+      <player birth_date="1989-04-28" country="England" country_code="ENG" first_name="Dave" full_name="Lewis, Dave" id="71fa5a98-a8fc-4a0c-88e5-8d636e82ed8d" last_name="Lewis"/>
+      <player birth_date="1983-05-24" country="Tonga" country_code="TGA" first_name="Elvis" full_name="Taione, Elvis" id="72b83a47-6ae7-4ca0-8213-14b914ba5b75" last_name="Taione"/>
+      <player birth_date="1989-10-12" country="England" country_code="ENG" first_name="Alex" full_name="Brown, Alex" id="75224d4a-0b9c-450f-87c8-e44195b9e366" last_name="Brown"/>
+      <player birth_date="1983-06-10" country="Australia" country_code="AUS" first_name="Greg" full_name="Holmes, Greg" id="77c7faef-93d7-4c72-8547-4dc2537bafc6" last_name="Holmes"/>
+      <player first_name="Jake" full_name="Woolmore, Jake" id="7a5e66fb-3163-42ef-921a-d549abefb3bc" last_name="Woolmore"/>
+      <player birth_date="1981-11-15" country="England" country_code="ENG" first_name="Brett" full_name="Sturgess, Brett" id="7e1ef8b3-922b-4217-8eb7-5b90b3497967" last_name="Sturgess"/>
+      <player birth_date="1984-04-04" country="Republic of Ireland" country_code="IRL" first_name="Gareth" full_name="Steenson, Gareth" id="85beebbf-552c-4010-80da-e0779527c79e" last_name="Steenson"/>
+      <player birth_date="1994-06-07" country="England" country_code="ENG" first_name="Jonny" full_name="Hill, Jonny" id="9305512a-5f30-41d7-8add-669a83c83b9f" last_name="Hill"/>
+      <player birth_date="1995-01-30" country="England" country_code="ENG" first_name="Harvey" full_name="Skinner, Harvey" id="9469a691-816a-4c79-b2f2-87525d565001" last_name="Skinner"/>
+      <player birth_date="1982-07-27" country="England" country_code="ENG" first_name="Damian" full_name="Welch, Damian" id="94880c87-0a96-42f7-9d78-9de8161a306c" last_name="Welch"/>
+      <player first_name="Henry" full_name="Slade, Henry" id="97851e08-994e-4e95-ac1c-1e60095d3f88" last_name="Slade"/>
+      <player birth_date="1995-01-17" country="England" country_code="ENG" first_name="Pete" full_name="Laverick, Pete" id="980a03f8-e425-43e3-ba3d-aab7f29c6cc8" last_name="Laverick"/>
+      <player birth_date="1997-04-04" country="England" country_code="ENG" first_name="Jack" full_name="Maunder, Jack" height_cm="177" height_in="69" id="98a680ed-bba9-406c-a478-8fddef5903c8" last_name="Maunder" weight_kg="80" weight_lb="176"/>
+      <player birth_date="1996-11-23" country="England" country_code="ENG" first_name="Billy" full_name="Keast, Billy" id="ae4a6c4f-56fb-4a0d-8853-30711fcf26ca" last_name="Keast"/>
+      <player birth_date="1983-04-27" country="New Zealand" country_code="NZL" first_name="Thomas" full_name="Waldrom, Thomas" height_cm="184" height_in="72" id="afe9c010-985f-48e4-8352-e86e1afecff7" last_name="Waldrom" weight_kg="111" weight_lb="244"/>
+      <player birth_date="1989-03-07" country="Fiji" country_code="FIJ" first_name="Niko" full_name="Matawalu, Niko" id="b527d097-572d-4e6e-b57f-78ba7d3f789a" last_name="Matawalu"/>
+      <player first_name="Dave" full_name="Lewis, Dave" id="bdabd739-90d1-4d7b-a997-0c5b500bfbf1" last_name="Lewis"/>
+      <player birth_date="1990-02-14" country="South Africa" country_code="RSA" first_name="Shaun" full_name="Malton, Shaun" id="be4feebc-fb0e-4e82-a4a4-a72e21c96a0f" last_name="Malton"/>
+      <player birth_date="1992-04-26" country="Wales" country_code="WAL" first_name="Tomas" full_name="Francis, Tomas" id="be5e68d2-6d06-45b7-b4a5-e6570037c3e6" last_name="Francis"/>
+      <player birth_date="1985-10-08" country="Australia" country_code="AUS" first_name="Julian" full_name="Salvi, Julian" id="bf6d2130-fba5-44a2-9e72-d93b1a754d38" last_name="Salvi"/>
+      <player birth_date="1989-04-28" first_name="Dave" full_name="Lewis, Dave" id="c08aceac-d8e8-433d-8c83-1fa66365c2f5" last_name="Lewis"/>
+      <player birth_date="1995-10-10" country="England" country_code="ENG" first_name="Stuart" full_name="Townsend, Stuart" height_cm="176" height_in="69" id="c7f23ae6-29ec-4c8d-88e1-39215173949c" last_name="Townsend" weight_kg="87" weight_lb="191"/>
+      <player birth_date="1995-01-30" country="England" country_code="ENG" first_name="Sam" full_name="Skinner, Sam" id="cd03318f-5eae-49a5-aab7-16bf30f3b5f4" last_name="Skinner"/>
+      <player birth_date="1986-04-28" country="England" country_code="ENG" first_name="Carl" full_name="Rimmer, Carl" id="cdb83330-29be-4335-92d1-09506abc71eb" last_name="Rimmer"/>
+      <player birth_date="1997-06-08" country="England" country_code="ENG" first_name="Josh" full_name="Caulfield, Josh" id="d03bc717-3de3-42fd-bc80-4e8d36093ea5" last_name="Caulfield"/>
+      <player birth_date="1988-07-12" country="Namibia" country_code="NAM" first_name="Chrysander" full_name="Botha, Chrysander" height_cm="187" height_in="73" id="d0f3db6d-1d41-4bae-bdf6-b9b385eb15fa" last_name="Botha" weight_kg="84" weight_lb="185"/>
+      <player birth_date="1991-09-30" country="England" country_code="ENG" first_name="Harry" full_name="Williams, Harry" id="d2de6c1f-71ad-4f0b-aaee-b464f4e1c1c2" last_name="Williams"/>
+      <player birth_date="1993-09-21" country="England" country_code="ENG" first_name="Ollie" full_name="Devoto, Ollie" height_cm="1" id="d4ea0214-3592-4b5f-ae5f-ec59737bd8b7" last_name="Devoto" weight_kg="98" weight_lb="216"/>
+      <player birth_date="1988-03-16" country="England" country_code="ENG" first_name="Will" full_name="Chudley, Will" height_cm="183" height_in="72" id="d7b4bdb8-d117-442a-842b-ccec0eb3ec8e" last_name="Chudley" weight_kg="79" weight_lb="174"/>
+      <player birth_date="1987-06-04" country="Northern Ireland" country_code="NIR" first_name="Ian" full_name="Whitten, Ian" id="dd3190c0-eb48-4ca9-a64a-db224d97205d" last_name="Whitten"/>
+      <player birth_date="1995-10-05" country="England" country_code="ENG" first_name="Jack" full_name="Oulton, Jack" id="e002699f-7ed7-432d-b7a3-58c0395d9f0c" last_name="Oulton"/>
+      <player birth_date="1993-05-11" country="England" country_code="ENG" first_name="Josh" full_name="Jones, Josh" height_cm="184" height_in="72" id="e327f2f9-3211-416e-80f6-8d8e42213607" last_name="Jones" weight_kg="96" weight_lb="211"/>
+      <player birth_date="1995-12-26" country="England" country_code="ENG" first_name="Ed" full_name="Holmes, Ed" id="ef0dc086-b05c-433e-91d2-a63e1c4cd33c" last_name="Holmes"/>
+      <player birth_date="1989-07-13" country="England" country_code="ENG" first_name="Ben" full_name="Moon, Ben" id="f2f313fe-f77c-4fa6-9e04-6ad3f0357ad2" last_name="Moon"/>
+      <player birth_date="1989-10-14" country="England" country_code="ENG" first_name="James" full_name="Short, James" id="f4190ae5-6dd0-409c-a4e7-911be5991d16" last_name="Short"/>
+      <player country="England" country_code="ENG" first_name="Alex" full_name="Hepburn, Alex" id="f652cbc6-0126-4feb-a5ac-73a66f915288" last_name="Hepburn"/>
+      <player birth_date="1990-09-02" country="Zimbabwe" country_code="ZIM" first_name="Dave" full_name="Ewers, Dave" height_cm="193" height_in="75" id="f8a0171c-d949-4e3e-908c-f9917d60254d" last_name="Ewers" weight_kg="116" weight_lb="255"/>
+      <player birth_date="1983-10-27" country="England" country_code="ENG" first_name="Geoff" full_name="Parling, Geoff" id="fc818b8e-7571-4c75-8ddc-b7794498f046" last_name="Parling"/>
+      <player birth_date="1991-11-17" country="England" country_code="ENG" first_name="Olly" full_name="Woodburn, Olly" id="fca53bc7-2428-476b-a1a0-28a63d591d5c" last_name="Woodburn"/>
+    </roster>
+  </team>
+</profile>

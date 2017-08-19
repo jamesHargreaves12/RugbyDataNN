@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:42Z">
+  <matches>
+    <match coverage="2" id="619192a0-cd2d-4950-8579-98322a48b310" period="" scheduled="2016-02-12T19:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="LEI" id="5a9ba058-9918-42fd-b077-e9cae0c47f78" name="Leinster" score="52">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="ZEB" id="7dd71d62-cf83-4b55-a4f4-8814ba0e904d" name="Zebre" score="0">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue city="Dublin" country="Ireland" id="e83f76b6-963d-44a7-9526-711de30a9206" latitude="53.325556" longitude="-6.229444" name="RDS"/>
+    </match>
+    <match coverage="2" id="b104630e-e993-4e6f-8c6b-627d58767ded" period="" scheduled="2016-02-12T19:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="ULS" id="852b1dd7-74fa-4915-bdc5-eb5e60ea1b74" name="Ulster" score="13">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="GLA" id="3e8f8a99-a390-4f5b-82f9-1c209c9e1894" name="Glasgow" score="10">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue city="Belfast" country="Northern Ireland" id="ddcbfd3b-5b47-43b7-be08-cc023553257b" latitude="54.57658" longitude="-5.904423" name="Ravenhill"/>
+    </match>
+    <match coverage="2" id="9f05f88c-834d-4230-87bf-f71a4ccb7d0b" period="" scheduled="2016-02-12T19:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="26">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="14">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </away>
+      <venue city="Newcastle upon Tyne" country="England" id="57c6ffba-6ac1-4801-8197-2141f85565d2" latitude="55.018611" longitude="-1.672222" name="Kingston Park"/>
+    </match>
+    <match coverage="2" id="c4ac0736-5d76-4978-9308-3732ad22b615" period="" scheduled="2016-02-12T20:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="SFE" id="a6184a0b-7274-4839-8722-d04aeeb65734" name="Sheffield" score="26">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="HAL" id="d302c4d2-6ac8-4576-8f35-3b66302708e9" name="Halifax" score="6">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue id="2baf2252-33aa-4e4b-9bbf-0b80c1fe8600"/>
+    </match>
+    <match coverage="2" id="f613759e-3f07-4391-b1e2-10bc02dad501" period="" scheduled="2016-02-12T20:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="4b87f74e-5c7b-4f44-937d-adcf6a88b231" name="Super League"/>
+      <season end="2016-10-08T21:59:59Z" id="ef935f42-a9d9-4b1b-b278-f98f6e5de942" name="Super League 2016" start="2016-02-03T23:00:00Z" year="2016"/>
+      <home alias="HFG" id="4ded971d-6e4b-4ab9-b847-180c1a0b609d" name="Huddersfield" score="13">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="WGW" id="93bb97c7-1eb9-48f6-91ac-7a5f05c41c9c" name="Wigan" score="18">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="24500" city="Huddersfield" country="England" id="e2d255a1-1fb0-49f7-aa85-e25f85c148d0" latitude="53.654167" longitude="-1.768333" name="John Smith's Stadium"/>
+    </match>
+    <match coverage="2" id="30fe26fb-d1d8-4571-98d4-9709ddfda075" period="" scheduled="2016-02-12T20:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="SCA" id="e3c0d780-460b-44cf-b126-d5dba29b2e51" name="Scarlets" score="22">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="EDI" id="b21d06a4-e819-4a47-bbf2-75ae6115ad83" name="Edinburgh" score="21">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue capacity="14870" city="Llanelli" country="Wales" id="d5a1d3e2-0e65-4d98-8325-f4fcfc37f32b" latitude="51.678816" longitude="-4.127621" name="Parc y Scarlets"/>
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:21:19Z">
+  <matches>
+    <match coverage="2" id="6480fa72-15a9-4d08-ab5c-301add97360c" period="" scheduled="2016-04-23T05:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2016-10-03T21:59:59Z" id="97528c84-d51e-4a45-805e-94afb72cee52" name="NRL 2016" start="2016-02-29T23:00:00Z" year="2016"/>
+      <home alias="CBB" id="c4e04b0f-878f-43f9-87eb-26dff6f11de5" name="Canterbury" score="21">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="GCO" id="51ae35e8-98cf-499f-9fb5-d7ab7372c58b" name="Gold Coast" score="20">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="83500" city="Sydney" country="Australia" id="e39df26b-bde4-4bed-9b20-93152095dd30" latitude="-33.847126" longitude="151.063319" name="ANZ Stadium"/>
+    </match>
+    <match coverage="2" id="7369482b-9e32-4c09-b642-a21c42092bcc" period="" scheduled="2016-04-23T05:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2016-08-09T21:59:59Z" id="738e9f4b-5a14-486e-8dfd-415133db5d2f" name="Super Rugby 2016" start="2016-02-24T23:00:00Z" year="2016"/>
+      <home alias="SUN" id="a85d2d30-12f5-492a-bcbf-adf45476cc88" name="Sunwolves" score="36">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="23"/>
+        </scoring>
+      </home>
+      <away alias="JAG" id="4d2aed83-bda0-4f36-bf8c-971fecf22536" name="Jaguares" score="28">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="27188" city="Tokyo" country="Japan" id="c510964a-1583-4010-a06b-c58f73410bcd" name="Chichibunomiya Rugby Stadium"/>
+    </match>
+    <match coverage="2" id="9d05f1ab-b4ce-4d3f-a092-58c41f153743" period="" scheduled="2016-04-23T07:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2016-10-03T21:59:59Z" id="97528c84-d51e-4a45-805e-94afb72cee52" name="NRL 2016" start="2016-02-29T23:00:00Z" year="2016"/>
+      <home alias="CBR" id="52e39071-e379-4aef-bac8-a4e81cf03914" name="Canberra" score="60">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="38"/>
+        </scoring>
+      </home>
+      <away alias="WTG" id="039ab639-8846-433d-9b31-cc2cb4cfcfce" name="Wests" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="25000" city="Canberra" country="Australia" id="1ec94358-7b48-4aa2-8f2e-4db450cb62eb" latitude="-35.25" longitude="149.102778" name="Canberra Stadium"/>
+    </match>
+    <match coverage="2" id="5e61923e-1276-4a9b-a8e0-dd9505385d54" period="" scheduled="2016-04-23T07:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2016-08-09T21:59:59Z" id="738e9f4b-5a14-486e-8dfd-415133db5d2f" name="Super Rugby 2016" start="2016-02-24T23:00:00Z" year="2016"/>
+      <home alias="HUR" id="74fd406f-b097-46d0-920f-f44ae4f5e081" name="Hurricanes" score="27">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="CHI" id="e612c531-7886-4069-9e9c-78ce95dd06ae" name="Chiefs" score="28">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="34500" city="Wellington" country="New Zealand" id="4e175be2-9b24-4aae-8e85-0d242f800dfe" latitude="-41.273056" longitude="174.785833" name="Wellington Regional Stadium"/>
+    </match>
+    <match coverage="2" id="82799057-a14f-422d-8d77-005849192a18" period="" scheduled="2016-04-23T09:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1160b3b9-7fb2-46db-b2dd-d3268577100b" name="NRL"/>
+      <season end="2016-10-03T21:59:59Z" id="97528c84-d51e-4a45-805e-94afb72cee52" name="NRL 2016" start="2016-02-29T23:00:00Z" year="2016"/>
+      <home alias="NQU" id="1b5ab175-319c-4ab6-8eca-c3deeecb0f71" name="North Queensland" score="32">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="PAR" id="aa685bc3-686c-43ec-b0b1-3b179e078920" name="Parramatta" score="16">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="26500" city="Townsville" country="Australia" id="b38a32ca-7815-430d-875e-7370f3c33529" latitude="-19.316003" longitude="146.7118" name="Dairy Farmers Stadium"/>
+    </match>
+    <match coverage="2" id="f922b0ef-0253-4d3c-8252-0862a5ad0a00" period="" scheduled="2016-04-23T09:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2016-08-09T21:59:59Z" id="738e9f4b-5a14-486e-8dfd-415133db5d2f" name="Super Rugby 2016" start="2016-02-24T23:00:00Z" year="2016"/>
+      <home alias="WFO" id="cfa0cd6f-1595-40cf-9981-283038ff480b" name="Force" score="13">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="WAR" id="42bd188c-1f5b-4853-bf47-25a078e5c7f0" name="Waratahs" score="49">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="32"/>
+        </scoring>
+      </away>
+      <venue capacity="17288" city="Perth" country="Australia" id="0b2ba16d-fe6f-4054-ac13-9f7bbd3c6341" latitude="-31.945833" longitude="115.87" name="nib Stadium"/>
+    </match>
+    <match coverage="2" id="43456391-8515-4997-a8a2-e4734edd5856" period="" scheduled="2016-04-23T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2016-08-09T21:59:59Z" id="738e9f4b-5a14-486e-8dfd-415133db5d2f" name="Super Rugby 2016" start="2016-02-24T23:00:00Z" year="2016"/>
+      <home alias="STO" id="498ebb51-e0fa-48c5-82f1-3be26000e432" name="Stormers" score="40">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="23"/>
+        </scoring>
+      </home>
+      <away alias="RED" id="832acb52-66e6-4147-b944-7235dbf4ad5a" name="Reds" score="22">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="51900" city="Cape Town" country="South Africa" id="ec47ffab-2b15-4dcd-9938-9da316f04399" latitude="-33.970556" longitude="18.468333" name="DHL Newlands Stadium"/>
+    </match>
+    <match coverage="2" id="4e11ffb9-a96e-443e-8172-b53c3be99de0" period="" scheduled="2016-04-23T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="30c1ad5e-f012-4d3b-8bc4-61fe7eec8da5" name="Currie Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="cd986b05-da25-4755-bf3b-01496d7b625c" name="Currie Cup 2016" start="2016-04-06T22:00:00Z" year="2016"/>
+      <home alias="SHA" id="7b77af76-ffe2-4a72-a198-92f1a292f2d3" name="Sharks" score="48">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="WEL" id="de4ed3bc-d395-4604-9856-14ea00bdfc5e" name="Welwitschias" score="18">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="55000" city="Durban" country="South Africa" id="87d16dc2-79d0-496c-86c4-18ec31ccd6a0" latitude="-29.824889" longitude="31.029689" name="Kings Park Stadium"/>
+    </match>
+    <match coverage="2" id="53143fbb-415c-419f-9784-f06f81105191" period="" scheduled="2016-04-23T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="30c1ad5e-f012-4d3b-8bc4-61fe7eec8da5" name="Currie Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="cd986b05-da25-4755-bf3b-01496d7b625c" name="Currie Cup 2016" start="2016-04-06T22:00:00Z" year="2016"/>
+      <home alias="GRI" id="a9c66889-f8a9-4d36-b233-49386dac485a" name="Griquas" score="27">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="SWD" id="617d1f23-24aa-4b8c-a74e-a5ee164fc033" name="SWD Eagles" score="17">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="18000" city="Kimberley" country="South Africa" id="d9e03da2-a651-4121-93b2-34496bc17fd7" latitude="-28.754944" longitude="24.758008" name="GWK Hoffe Park Stadium"/>
+    </match>
+    <match coverage="2" id="8c46b5b9-95bb-4421-b0b3-d6a53f41934d" period="" scheduled="2016-04-23T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="30c1ad5e-f012-4d3b-8bc4-61fe7eec8da5" name="Currie Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="cd986b05-da25-4755-bf3b-01496d7b625c" name="Currie Cup 2016" start="2016-04-06T22:00:00Z" year="2016"/>
+      <home alias="GLI" id="53d698b3-b45d-4a2a-9deb-fe6489e064a7" name="G. Lions" score="38">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="VOD" id="efeaf5e4-2640-45bf-aed0-ec49e96e4050" name="Vodacom" score="17">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue id="d7184ad8-86b0-4a9a-bf82-8d767eb099e2"/>
+    </match>
+    <match coverage="2" id="d1ed6702-7a37-4353-b593-afab75f95fcd" period="" scheduled="2016-04-23T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="30c1ad5e-f012-4d3b-8bc4-61fe7eec8da5" name="Currie Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="cd986b05-da25-4755-bf3b-01496d7b625c" name="Currie Cup 2016" start="2016-04-06T22:00:00Z" year="2016"/>
+      <home alias="EPK" id="e3411c45-aa10-4e01-9f5b-cb7d63083dd8" name="Eastern Province" score="14">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="BOR" id="fb1420f7-ec24-4cf1-a8d5-1c83c20e7c28" name="Border Bulldogs" score="28">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="28"/>
+        </scoring>
+      </away>
+      <venue id="61cf58db-46a7-455b-864a-2d99cf4e5e31"/>
+    </match>
+    <match coverage="2" id="70bec874-8423-4597-995e-748c3cf88fc2" period="" scheduled="2016-04-23T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="806a9c72-c0fb-44f2-8378-87bd1e340a4c" name="European Cup"/>
+      <season end="2016-05-15T21:59:59Z" id="e4924ca9-2592-4f4e-bcb3-abdf89ffde7a" name="European Cup 15/16" start="2015-05-23T22:00:00Z" year="2015"/>
+      <home alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="24">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="17">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="24161" city="Reading" country="England" id="60e8ac33-a25c-40f4-9d00-e8117eb3857b" latitude="51.422222" longitude="-0.982778" name="Madejski Stadium"/>
+    </match>
+    <match coverage="2" id="daaa23ee-9033-41bf-b3c9-7ef442244247" period="" scheduled="2016-04-23T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="1184fdb4-35e4-45cc-b34c-8dba40d71460" name="RFL Championship 1"/>
+      <season end="2016-10-02T21:59:59Z" id="ca17822e-d2ed-4e7d-8316-5a278cb07e62" name="RFL Championship 1 2016" start="2016-03-04T23:00:00Z" year="2016"/>
+      <home alias="LSK" id="8a6e9503-e5ae-40b1-ba43-1d97c3d0667b" name="Skolars" score="52">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="32"/>
+        </scoring>
+      </home>
+      <away alias="CBE" id="6196397f-7e8f-4e92-be89-1a29f8d05e3b" name="Bears" score="20">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="454f28f2-ce5f-4e8d-bec9-0486a88fc689" name="White Hart Lane Community Sports Centre"/>
+    </match>
+    <match coverage="2" id="9390d65e-a462-431d-86ea-34ad8663eaab" period="" scheduled="2016-04-23T14:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="BAT" id="4b08f30c-7fe6-40ad-b747-520ac55aa30e" name="Bath" score="32">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="26">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </away>
+      <venue city="Bath" country="England" id="c128d7aa-69bc-412c-9f03-4de63e913671" latitude="51.382234" longitude="-2.355404" name="Recreation Ground"/>
+    </match>
+    <match coverage="3" id="fc0ce3d8-c869-4ee2-ad44-049ec6d718e9" period="" scheduled="2016-04-23T15:05:00Z" status="scheduled">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2016-08-09T21:59:59Z" id="738e9f4b-5a14-486e-8dfd-415133db5d2f" name="Super Rugby 2016" start="2016-02-24T23:00:00Z" year="2016"/>
+      <home alias="EPK" id="e3411c45-aa10-4e01-9f5b-cb7d63083dd8" name="Eastern Province" score="0">
+      </home>
+      <away alias="TLI" id="b908325b-f597-417d-a617-10d31de2cb9a" name="The Lions" score="0">
+      </away>
+      <venue id="61cf58db-46a7-455b-864a-2d99cf4e5e31"/>
+    </match>
+    <match coverage="2" id="5ff014f5-3e51-40cb-8ee7-a881c10d50f1" period="" scheduled="2016-04-23T15:10:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2016-08-09T21:59:59Z" id="738e9f4b-5a14-486e-8dfd-415133db5d2f" name="Super Rugby 2016" start="2016-02-24T23:00:00Z" year="2016"/>
+      <home alias="KGS" id="b80dbf1a-e18e-4d9b-bf60-24ae4339aacf" name="Kings" score="10">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </home>
+      <away alias="TLI" id="b908325b-f597-417d-a617-10d31de2cb9a" name="The Lions" score="45">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </away>
+      <venue id="61cf58db-46a7-455b-864a-2d99cf4e5e31"/>
+    </match>
+    <match coverage="2" id="109af4b7-500c-43a8-9cd0-fd72d200a113" period="" scheduled="2016-04-23T16:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="4b87f74e-5c7b-4f44-937d-adcf6a88b231" name="Super League"/>
+      <season end="2016-10-08T21:59:59Z" id="ef935f42-a9d9-4b1b-b278-f98f6e5de942" name="Super League 2016" start="2016-02-03T23:00:00Z" year="2016"/>
+      <home alias="CAT" id="0c5af0bd-d449-436e-addb-4576293f4013" name="Catalans" score="42">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </home>
+      <away alias="SAL" id="6d1753c9-281e-4c83-9915-e25cadd65753" name="Salford" score="32">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </away>
+      <venue city="Perpignan" country="France" id="afcf8642-ffee-45fb-a224-761e735a5412" latitude="42.723056" longitude="2.885194" name="Stade Gilbert Brutus"/>
+    </match>
+    <match coverage="2" id="959ef640-5bd2-44fc-aac8-e591aab5cb4a" period="" scheduled="2016-04-23T16:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="c85a0c1a-250d-406f-85ee-02fb6b03d565" name="European Challenge Cup"/>
+      <season end="2016-05-14T21:59:59Z" id="4d167dd6-ad32-48a8-8a48-aa062006ddb4" name="European Challenge Cup 15/16" start="2015-10-31T23:00:00Z" year="2015"/>
+      <home alias="MON" id="997612ac-b8d2-42f9-9ef0-a24ea70ebc8e" name="Montpellier" score="22">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="NPT" id="ae72c0f6-9103-422c-bff7-102cdfbef3e6" name="NG Dragons" score="12">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="15000" city="Montpellier" country="France" id="067457c2-ca5c-4d52-8682-0a82dff11cc4" latitude="43.593229" longitude="3.849585" name="Stade Yves-du-Manoir"/>
+    </match>
+    <match coverage="2" id="c0884b39-5ee5-4678-ad51-fafec1cb252d" period="" scheduled="2016-04-23T17:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="WHW" id="93e4ff43-6d9b-4b60-be6c-72cfc67cfbcb" name="Whitehaven" score="14">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="2"/>
+        </scoring>
+      </home>
+      <away alias="OLH" id="ffd538c6-a4b1-4d2b-aefa-3615919ecbd3" name="Oldham" score="6">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Whitehaven" country="England" id="da26b2aa-64c3-446b-8f03-0452de556902" name="The Recreation Ground"/>
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:41Z">
+  <matches>
+    <match coverage="2" id="f7f2cbaa-e306-470c-8b7a-ff3fc5e0ab8c" period="" scheduled="2017-01-08T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="22">
+        <scoring>
+          <period number="1" points="19"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="16">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="32500" city="Coventry" country="England" id="2dddfeb9-0564-4f37-8293-73fee304fda9" latitude="52.448056" longitude="-1.495556" name="Ricoh Arena"/>
+    </match>
+    <match coverage="2" id="9ce8c771-eec7-49f5-8956-90e8c51bbb99" period="" scheduled="2017-01-08T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="FPA" id="2e6759fd-197d-45b3-a29e-95b735f538e3" name="Stade Francais" score="15">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="18">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </away>
+      <venue city="Issy-les-Moulineaux" country="France" id="e7a8cea7-a49d-4c02-b735-aced96c1f505" latitude="48.681519" longitude="2.373478" name="Stade Jean Bouin"/>
+    </match>
+    <match coverage="2" id="add6dd1b-a66f-4a7b-96c9-66199a284efb" period="" scheduled="2017-01-08T20:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="CLE" id="961ac156-ff5c-4e7e-ae0d-bb09296e0576" name="Clermont" score="30">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="6">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="16610" city="Clermont-Ferrand" country="France" id="18abe33a-501d-424d-b99e-8cfb1438b949" latitude="45.789444" longitude="3.106111" name="Stade Marcel-Michelin"/>
+    </match>
+  </matches>
+</boxscore>

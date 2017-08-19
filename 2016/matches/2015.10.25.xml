@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:06Z">
+  <matches>
+    <match coverage="2" id="bf7468a9-734b-4c55-bc73-dc42b78fcd7f" period="" scheduled="2015-10-25T11:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="LAR" id="69efef3e-0c80-43e5-a067-bd314773c0ca" name="La Rochelle" score="23">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="AGE" id="76cf514f-b2be-4035-bbcc-33aee47e9a01" name="Agen" score="6">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="12500" city="La Rochelle" country="France" id="221e3833-396e-4ea2-9e04-b32251d0d117" latitude="46.158056" longitude="-1.178056" name="Stade Marcel-Deflandre"/>
+    </match>
+    <match coverage="2" id="bdc0b94b-cef3-4f74-93ef-b426396418b3" period="" scheduled="2015-10-25T13:25:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="BEZ" id="43a8c836-c50e-426b-9be7-879ed93130cd" name="Beziers" score="54">
+        <scoring>
+          <period number="1" points="25"/>
+          <period number="2" points="29"/>
+        </scoring>
+      </home>
+      <away alias="AUR" id="fa80ee2c-7d3e-4ce8-b698-07a95099f39e" name="Aurillacois" score="40">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="26"/>
+        </scoring>
+      </away>
+      <venue capacity="18555" city="Beziers" country="France" id="ae3429e1-4221-458c-9fb9-7f008d86b9e3" latitude="43.334722" longitude="3.266111" name="Stade de la Mediterranee"/>
+    </match>
+    <match coverage="1" id="368db93e-9932-41d3-a7c6-45106d48c52b" period="" scheduled="2015-10-25T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="22">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="19">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue city="Leicester" country="England" id="442e3151-d5e1-4d09-8b2b-044061995030" latitude="52.624167" longitude="-1.133056" name="Welford Road Stadium"/>
+    </match>
+    <match coverage="1" id="547abd27-be90-4832-a4a1-8583c1085959" period="" scheduled="2015-10-25T16:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="b3e64006-2b66-4608-be87-15f2841cb3ae" name="World Cup"/>
+      <season end="2015-11-01T22:59:00Z" id="973197fc-5f9c-4adb-8fc9-d15d2f22fb5c" name="World Cup 2015" start="2015-09-17T22:00:00Z" year="2015"/>
+      <home alias="ARG" id="6a6bed12-fa3f-4ebd-9a40-eed755d58866" name="Argentina" score="15">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="AUS" id="732a1e15-7fae-4607-ae73-4ea118475eed" name="Australia" score="29">
+        <scoring>
+          <period number="1" points="19"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="82000" city="London" country="England" id="b343fadb-4b39-45c2-bf4a-b069326276a4" name="Twickenham"/>
+    </match>
+  </matches>
+</boxscore>

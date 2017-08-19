@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:15Z">
+  <matches>
+    <match coverage="2" id="ce8a486e-a56e-4c86-851a-d7e5f3138717" period="" scheduled="2016-10-29T06:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="d5c0110e-1ca0-4f99-8e15-b2890193a0a2" name="NPC Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="1802e4a5-3991-4a5f-bd0e-e31335fe6aeb" name="NPC Cup 2016" start="2016-08-14T22:00:00Z" year="2016"/>
+      <home alias="CBY" id="9bcdde51-32f8-44f4-ae88-0f999f372fa7" name="Canterbury" score="43">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </home>
+      <away alias="TAS" id="c8a7d54b-4f27-439c-b386-3d25b95cfddc" name="Tasman" score="27">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="8000" city="Christchurch" country="New Zealand" id="a68b5f70-cea8-4b98-88bd-06c9953da81a" latitude="-43.505188" longitude="172.629352" name="Rugby Park"/>
+    </match>
+    <match coverage="2" id="1fe8da3f-37c8-41bc-8e37-f32fd887b3e4" period="" scheduled="2016-10-29T12:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="20">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="24">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="13819" city="Pau" country="France" id="61a93c9f-4492-4fb9-aec3-5d0c1b612d85" latitude="43.309444" longitude="-0.316944" name="Stade du Hameau"/>
+    </match>
+    <match coverage="2" id="971d9cff-14df-4de8-9797-c6abcb1a5f1d" period="" scheduled="2016-10-29T13:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2017-06-04T21:59:59Z" id="4d32f997-c56c-4ffe-a347-4ad9d078faae" name="Eccellenza 16/17" start="2016-09-29T22:00:00Z" year="2016"/>
+      <home alias="MAN" id="d3456cfc-7930-43ff-bc7d-9f2591ffe20e" name="Lazio" score="21">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="RLY" id="6fde525b-e932-44b2-8247-3e7fb87a7225" name="Rugby Lyons" score="23">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </away>
+      <venue capacity="628" city="Rome" country="Italy" id="c57f21b7-0899-4614-921f-260639ccfb27" latitude="41.935079" longitude="12.489371" name="Acquacetosa Roma"/>
+    </match>
+    <match coverage="2" id="9bdd397d-80cd-4fb6-b02b-56bf49b99da6" period="" scheduled="2016-10-29T13:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2017-06-04T21:59:59Z" id="4d32f997-c56c-4ffe-a347-4ad9d078faae" name="Eccellenza 16/17" start="2016-09-29T22:00:00Z" year="2016"/>
+      <home alias="REG" id="7261e8df-bc0b-419c-929e-a1b167efb3aa" name="Reggio" score="17">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="FOR" id="735cfdad-7776-4031-870f-7beb8f0bd609" name="Fiamme Oro" score="16">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue id="cd73b74a-cb2d-4e9c-ba3d-09b21abfa98c"/>
+    </match>
+    <match coverage="3" id="c27ca8f7-85d1-4cae-b251-e24d9cd277de" period="" scheduled="2016-10-29T13:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="df34f607-1dd6-4b1d-8b82-0ff67ae9789a" name="Four Nations"/>
+      <season end="2016-11-22T22:59:59Z" id="c211dcf5-46bf-4489-b1bc-b0c242a3b48d" name="Four Nations 2016" start="2016-10-27T22:00:00Z" year="2016"/>
+      <home alias="ENG" id="0ddc3b4d-6ebb-490a-93af-cdbc219e6d57" name="England" score="16">
+        <scoring>
+          <period number="1" points="4"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="NZL" id="e93bc753-ea27-4763-b23d-f21b647eb8f7" name="New Zealand" score="17">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="11"/>
+        </scoring>
+      </away>
+      <venue id="9e3da2c6-fc56-4cbb-952f-65c02fb46d5f"/>
+    </match>
+    <match coverage="2" id="055e9028-7389-46f4-b0a8-90c1b2e7674f" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="HFC" id="72348301-c820-4021-8fee-ea5e55418b13" name="Harlequin FC" score="36">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="29"/>
+        </scoring>
+      </home>
+      <away alias="WOR" id="0a252594-8ac4-44cb-bb1a-debfd9df07f8" name="Worcester" score="14">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="68cef72c-1bd8-45a2-a1c1-b089c92e2a2f" latitude="51.450278" longitude="-0.344167" name="London"/>
+    </match>
+    <match coverage="2" id="2ee64cb0-a895-4581-9016-f9069e77178a" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="OSP" id="48daa401-0492-4b07-bcf7-95fc5dbfe15d" name="Ospreys" score="35">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="21"/>
+        </scoring>
+      </home>
+      <away alias="NPT" id="ae72c0f6-9103-422c-bff7-102cdfbef3e6" name="NG Dragons" score="17">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="20827" city="Swansea" country="Wales" id="16073a24-5270-4691-b458-f5124db3decf" latitude="51.6422" longitude="-3.9351" name="Liberty Stadium"/>
+    </match>
+    <match coverage="2" id="5d37a42b-1389-4418-a4a3-74c2ed6f72fb" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2017-06-04T21:59:59Z" id="4d32f997-c56c-4ffe-a347-4ad9d078faae" name="Eccellenza 16/17" start="2016-09-29T22:00:00Z" year="2016"/>
+      <home alias="PAD" id="8d8e408c-9690-42dc-9900-e89d2b3a7730" name="Padova" score="12">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="ROV" id="06e16cbd-1d3a-458d-b4dc-9ab4a20612a2" name="Rovigo" score="17">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="9600" city="Padua" country="Italy" id="dbac284f-1664-4f4a-8636-6cb605bf5bb7" latitude="45.433876" longitude="11.899481" name="Stadio Plebiscito"/>
+    </match>
+    <match coverage="2" id="7c8f5f47-8573-43f4-b00c-31b5edafdecc" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2017-06-04T21:59:59Z" id="4d32f997-c56c-4ffe-a347-4ad9d078faae" name="Eccellenza 16/17" start="2016-09-29T22:00:00Z" year="2016"/>
+      <home alias="SAN" id="3c93398d-9f77-45bf-8156-016b0a060058" name="San Dona" score="20">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="VIA" id="17d7ec6e-9360-4529-863b-a88c3f38f0b5" name="Viadana" score="19">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue city="San Dona di Piave" country="Italy" id="048510cd-28d9-4f97-beb1-f1056f2be0e8" latitude="45.63909" longitude="12.544862" name="Stadio Romolo Pacifici"/>
+    </match>
+    <match coverage="2" id="8f5297e8-eefc-409f-a883-7f8309d29694" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="24">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="LEI" id="267e19cc-ec21-4beb-bbee-38fc0869e710" name="Leicester" score="10">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="d90173ee-af2d-4eca-b23e-ae36e9f38b3d" latitude="51.603506" longitude="-0.223642" name="Allianz Park"/>
+    </match>
+    <match coverage="2" id="c6768838-6f42-4c54-9059-2d0d38ade8ab" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="ea7b7379-c3f0-41e9-b168-7073d84cde45" name="Int. Friendly Games"/>
+      <season end="2016-12-31T22:59:59Z" id="418c2b05-1050-4df7-bf73-5ba8b6a35c97" name="Int. Friendly Games 2016" start="2015-12-31T23:00:00Z" year="2016"/>
+      <home alias="RSA" id="9089d76f-2dff-475f-ae62-685a57d41883" name="South Africa" score="22">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="NIU" id="b99493eb-e48f-42c8-bee9-f117c6a06288" name="Niue" score="50">
+        <scoring>
+          <period number="1" points="26"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="cc4ecef7-424c-4a21-8e2b-4361e09f0603" period="" scheduled="2016-10-29T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2017-06-04T21:59:59Z" id="4d32f997-c56c-4ffe-a347-4ad9d078faae" name="Eccellenza 16/17" start="2016-09-29T22:00:00Z" year="2016"/>
+      <home alias="CAL" id="b0374943-2fc2-48ea-9472-1e9d8eb6efe1" name="Calvisano" score="24">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="MOG" id="04b8cdee-38b5-4df8-bad2-70070a7f91bd" name="Mogliano" score="0">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="3500" city="Calvisano" country="Italy" id="c5015031-e4a5-4cb6-9095-d4172ab33fbf" latitude="45.35538" longitude="10.342533" name="Centro Sportivo San Michele"/>
+    </match>
+    <match coverage="2" id="0b91af31-481f-412e-8d2d-83d9e98ca6b9" period="" scheduled="2016-10-29T16:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2017-05-28T21:59:59Z" id="be2d0922-5621-49c0-a9f5-1db7bb9e6dbc" name="Pro 12 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="LEI" id="5a9ba058-9918-42fd-b077-e9cae0c47f78" name="Leinster" score="24">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </home>
+      <away alias="CON" id="8dc17c77-7e0e-4a84-bc57-b88d470836be" name="Connacht" score="13">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Dublin" country="Ireland" id="e83f76b6-963d-44a7-9526-711de30a9206" latitude="53.325556" longitude="-6.229444" name="RDS"/>
+    </match>
+    <match coverage="2" id="36da6d95-f6cc-4baf-b28b-186d01eb1dcd" period="" scheduled="2016-10-29T16:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="MON" id="997612ac-b8d2-42f9-9ef0-a24ea70ebc8e" name="Montpellier" score="12">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="LAR" id="69efef3e-0c80-43e5-a067-bd314773c0ca" name="La Rochelle" score="11">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="15000" city="Montpellier" country="France" id="067457c2-ca5c-4d52-8682-0a82dff11cc4" latitude="43.593229" longitude="3.849585" name="Stade Yves-du-Manoir"/>
+    </match>
+    <match coverage="2" id="7f22b4e8-6afd-4dd2-a5bc-89338b68df79" period="" scheduled="2016-10-29T16:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="42">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="22"/>
+        </scoring>
+      </home>
+      <away alias="GRE" id="48ad37ec-3c12-4ce5-aa85-2f108fbf739b" name="Grenoble" score="12">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue capacity="14700" city="Toulon" country="France" id="7ec548ed-e4d6-4dae-9322-b2a28abb7034" latitude="43.118947" longitude="5.936531" name="Stade Mayol"/>
+    </match>
+    <match coverage="2" id="fc76c02d-b9bf-4f31-9e51-7a3fc441de85" period="" scheduled="2016-10-29T16:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="FPA" id="2e6759fd-197d-45b3-a29e-95b735f538e3" name="Stade Francais" score="25">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="LOU" id="3962b905-c91b-4728-b6b8-1ae52f58c0a7" name="Lyon Olympique" score="19">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue city="Issy-les-Moulineaux" country="France" id="e7a8cea7-a49d-4c02-b735-aced96c1f505" latitude="48.681519" longitude="2.373478" name="Stade Jean Bouin"/>
+    </match>
+    <match coverage="2" id="9b532780-42e4-49a5-98d1-9234b34abc5d" period="" scheduled="2016-10-29T18:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="BAY" id="e72e4cc1-1330-4a14-bbed-34a70e4b62c6" name="Bayonne" score="3">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="RME" id="77f6c3b5-4ead-4697-b9ba-74ebbff839c5" name="Racing-Metro" score="16">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="16934" city="Bayonne" country="France" id="366aad90-bfcb-47c9-9e2e-0aaf248c1b39" latitude="43.485556" longitude="-1.479167" name="Stade Jean Dauger"/>
+    </match>
+  </matches>
+</boxscore>

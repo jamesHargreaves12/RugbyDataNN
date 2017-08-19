@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:51Z">
+  <matches>
+    <match coverage="2" id="e0ed47b5-2e2a-41d1-afc4-80102034bbed" period="" scheduled="2017-02-25T04:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="SUN" id="a85d2d30-12f5-492a-bcbf-adf45476cc88" name="Sunwolves" score="17">
+        <scoring>
+          <period number="1" points="5"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="HUR" id="74fd406f-b097-46d0-920f-f44ae4f5e081" name="Hurricanes" score="83">
+        <scoring>
+          <period number="1" points="45"/>
+          <period number="2" points="38"/>
+        </scoring>
+      </away>
+      <venue capacity="27188" city="Tokyo" country="Japan" id="c510964a-1583-4010-a06b-c58f73410bcd" name="Chichibunomiya Rugby Stadium"/>
+    </match>
+    <match coverage="2" id="d75afaef-44ff-4ec3-99b9-994dd17b31a3" period="" scheduled="2017-02-25T06:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="CRU" id="e70d2884-1f2c-4b91-a52e-8ae8d0b79528" name="Crusaders" score="17">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="5"/>
+        </scoring>
+      </home>
+      <away alias="BRU" id="572c3393-2b68-4951-a482-7e1c8bf9a632" name="Brumbies" score="13">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="18000" city="Christchurch" country="New Zealand" id="7ebee6c5-1cb8-41f5-b104-c268476a6f00" latitude="-43.5437" longitude="172.6041" name="Christchurch Stadium"/>
+    </match>
+    <match coverage="2" id="fdf26f97-66f1-4e06-90cb-0011d12bcca6" period="" scheduled="2017-02-25T08:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="WAR" id="42bd188c-1f5b-4853-bf47-25a078e5c7f0" name="Waratahs" score="19">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="WFO" id="cfa0cd6f-1595-40cf-9981-283038ff480b" name="Force" score="13">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="45500" city="Sydney" country="Australia" id="8cfc052b-2216-4c74-befe-c9b1dbb71742" latitude="-33.889167" longitude="151.225278" name="Allianz Stadium"/>
+    </match>
+    <match coverage="2" id="902c9611-9d96-454a-891c-2cfc1b87835f" period="" scheduled="2017-02-25T13:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2017-08-31T21:59:59Z" id="59ba797d-d148-4300-a7d4-115bc66964ad" name="RFL Challenge Cup 2017" start="2017-01-26T23:00:00Z" year="2017"/>
+      <home alias="SID" id="f4818c05-bdad-4ede-a603-9be3f9e935c1" name="Siddal" score="6">
+        <scoring>
+          <period number="1" points="2"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away/>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="15eaac22-0da4-4acf-988b-b2b7ce3d5862" period="" scheduled="2017-02-25T13:05:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="CHE" id="7010412c-5548-4ae0-b439-dedadf967a55" name="Cheetahs" score="25">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </home>
+      <away alias="TLI" id="b908325b-f597-417d-a617-10d31de2cb9a" name="The Lions" score="28">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="22"/>
+        </scoring>
+      </away>
+      <venue id="d6b9b0a8-65bc-41e5-be93-c48337c64a85"/>
+    </match>
+    <match coverage="2" id="347c53bb-34fc-4111-9be8-a1536302c060" period="" scheduled="2017-02-25T14:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2017-08-31T21:59:59Z" id="59ba797d-d148-4300-a7d4-115bc66964ad" name="RFL Challenge Cup 2017" start="2017-01-26T23:00:00Z" year="2017"/>
+      <home alias="WEH" id="e2f37349-31db-43d3-936b-c0d8fae45718" name="West Hull" score="16">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="WHW" id="93e4ff43-6d9b-4b60-be6c-72cfc67cfbcb" name="Whitehaven" score="18">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="9223c3a1-af44-4c30-b561-482012d25ec1" period="" scheduled="2017-02-25T14:25:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="88532d40-a486-4021-b6b8-efcbe2fe4400" name="Six Nations"/>
+      <season end="2017-03-19T22:59:59Z" id="11578b1e-56d7-4011-8a4e-47dd5abb8746" name="Six Nations 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="SCO" id="dceae27e-9f33-4ec0-9f1d-c820c953fac1" name="Scotland" score="29">
+        <scoring>
+          <period number="1" points="9"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </home>
+      <away alias="WAL" id="7a79b170-55a7-40e2-89b2-eccdb895410e" name="Wales" score="13">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="67144" city="Edinburgh" country="Scotland" id="3ee9af6c-2e1b-46fc-a45f-d1899b981eb1" latitude="55.942222" longitude="-3.240833" name="Murrayfield"/>
+    </match>
+    <match coverage="2" id="025623ad-f77d-474e-b6a9-fb0b35396e7e" period="" scheduled="2017-02-25T14:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2017-08-31T21:59:59Z" id="59ba797d-d148-4300-a7d4-115bc66964ad" name="RFL Challenge Cup 2017" start="2017-01-26T23:00:00Z" year="2017"/>
+      <home alias="WES" id="80e94e8e-644f-4e82-9590-816852023af7" name="Wests Warriors" score="12">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="HAY" id="fbfa613f-c61d-45c7-8881-93c4b55dc417" name="Haydock" score="26">
+        <scoring>
+          <period number="1" points="18"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="c9a9e745-6437-4352-be7e-67d322cf24dc" period="" scheduled="2017-02-25T14:45:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="29">
+        <scoring>
+          <period number="1" points="21"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </home>
+      <away alias="SSH" id="d8770ba5-abbe-402b-8b42-1e62de0cce36" name="Sale" score="18">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="d90173ee-af2d-4eca-b23e-ae36e9f38b3d" latitude="51.603506" longitude="-0.223642" name="Allianz Park"/>
+    </match>
+    <match coverage="2" id="7a554c17-e133-485f-a431-cca332193ca6" period="" scheduled="2017-02-25T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter" score="36">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </home>
+      <away alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="14">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue city="Exeter" country="England" id="6b082fc8-bfe8-4686-997c-ef308de5589a" latitude="50.709308" longitude="-3.467572" name="Sandy Park"/>
+    </match>
+    <match coverage="2" id="82bfc26d-6a9e-442e-bd55-58cf23edd53e" period="" scheduled="2017-02-25T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="NHA" id="2e31b0db-cbad-4580-9adb-8a92f586cb17" name="Northampton" score="24">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </home>
+      <away alias="WOR" id="0a252594-8ac4-44cb-bb1a-debfd9df07f8" name="Worcester" score="14">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="7"/>
+        </scoring>
+      </away>
+      <venue city="Northampton" country="England" id="810790ca-76d1-47cf-a627-a1e701537253" latitude="52.239444" longitude="-0.919722" name="Franklin's Gardens"/>
+    </match>
+    <match coverage="2" id="e8235b35-0ef8-4683-a082-b5a6628dd8d9" period="" scheduled="2017-02-25T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2017-08-31T21:59:59Z" id="59ba797d-d148-4300-a7d4-115bc66964ad" name="RFL Challenge Cup 2017" start="2017-01-26T23:00:00Z" year="2017"/>
+      <home alias="FRY" id="03cc54b0-9eed-49c6-8ff2-8b3739016b79" name="Fryston" score="32">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </home>
+      <away alias="KCG" id="c3b5a4ae-db13-479b-8d4b-c00a5250ef71" name="Keighley" score="50">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="34"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="39b97484-d695-43ac-922d-fdf0f20454a2" period="" scheduled="2017-02-25T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="KGS" id="b80dbf1a-e18e-4d9b-bf60-24ae4339aacf" name="Kings" score="26">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="JAG" id="4d2aed83-bda0-4f36-bf8c-971fecf22536" name="Jaguares" score="39">
+        <scoring>
+          <period number="1" points="19"/>
+          <period number="2" points="20"/>
+        </scoring>
+      </away>
+      <venue id="61cf58db-46a7-455b-864a-2d99cf4e5e31"/>
+    </match>
+    <match coverage="2" id="61120562-a6f9-4439-80f7-6cba244bbf8f" period="" scheduled="2017-02-25T16:50:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="88532d40-a486-4021-b6b8-efcbe2fe4400" name="Six Nations"/>
+      <season end="2017-03-19T22:59:59Z" id="11578b1e-56d7-4011-8a4e-47dd5abb8746" name="Six Nations 2017" start="2017-02-02T23:00:00Z" year="2017"/>
+      <home alias="IRL" id="94e3b4d3-5c4a-4a0a-96ad-d1e0ea9e55c0" name="Ireland" score="19">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="FRA" id="bf393c2d-e65a-40b1-a1bb-25b22ab2a43d" name="France" score="9">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </away>
+      <venue capacity="51700" city="Dublin" country="Ireland" id="d3dbf572-39c1-4a97-badf-b611f84e9498" name="Aviva Stadium"/>
+    </match>
+    <match coverage="2" id="bc47097e-118f-43a8-bfc8-814325dc6ab2" period="" scheduled="2017-02-25T17:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="86fba5e0-b256-44ed-9b8f-0d956479859e" name="RFL Challenge Cup"/>
+      <season end="2017-08-31T21:59:59Z" id="59ba797d-d148-4300-a7d4-115bc66964ad" name="RFL Challenge Cup 2017" start="2017-01-26T23:00:00Z" year="2017"/>
+      <home alias="NEW" id="4b700176-9114-4a28-9d57-0ad01b3625ab" name="Newcastle" score="18">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </home>
+      <away alias="WKT" id="10f566d0-6aa2-4237-bd02-6475739d9f90" name="Workington" score="16">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="8f839123-7674-4649-9957-9b078edd2c98" period="" scheduled="2017-02-25T17:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="68c08596-2bd4-4e61-aa63-4605e15f21b6" name="Super Rugby"/>
+      <season end="2017-08-31T21:59:59Z" id="e0a5c8de-e78b-487c-930f-04f7b7f813d0" name="Super Rugby 2017" start="2017-02-20T23:00:00Z" year="2017"/>
+      <home alias="STO" id="498ebb51-e0fa-48c5-82f1-3be26000e432" name="Stormers" score="37">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </home>
+      <away alias="BUL" id="4e0e22cf-6d9b-48f5-a71f-5ec77cbcf381" name="Bulls" score="24">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </away>
+      <venue capacity="51900" city="Cape Town" country="South Africa" id="ec47ffab-2b15-4dcd-9938-9da316f04399" latitude="-33.970556" longitude="18.468333" name="DHL Newlands Stadium"/>
+    </match>
+  </matches>
+</boxscore>

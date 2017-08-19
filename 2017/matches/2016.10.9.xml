@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-12T15:23:12Z">
+  <matches>
+    <match coverage="2" id="a3a8b821-d237-415f-8a46-73ff56d63290" period="" scheduled="2016-10-09T01:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="d5c0110e-1ca0-4f99-8e15-b2890193a0a2" name="NPC Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="1802e4a5-3991-4a5f-bd0e-e31335fe6aeb" name="NPC Cup 2016" start="2016-08-14T22:00:00Z" year="2016"/>
+      <home alias="WEL" id="261c0a05-30d8-4937-a485-0cc881a1efd7" name="Wellington" score="31">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="28"/>
+        </scoring>
+      </home>
+      <away alias="TAR" id="bb7454c2-38a1-4746-a517-eeb6f22a772b" name="Taranaki" score="54">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="34"/>
+        </scoring>
+      </away>
+      <venue capacity="34500" city="Wellington" country="New Zealand" id="4e175be2-9b24-4aae-8e85-0d242f800dfe" latitude="-41.273056" longitude="174.785833" name="Wellington Regional Stadium"/>
+    </match>
+    <match coverage="2" id="327b2f07-1f24-474e-af19-e26cdcdf8e41" period="" scheduled="2016-10-09T03:35:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="d5c0110e-1ca0-4f99-8e15-b2890193a0a2" name="NPC Cup"/>
+      <season end="2016-10-31T22:59:59Z" id="1802e4a5-3991-4a5f-bd0e-e31335fe6aeb" name="NPC Cup 2016" start="2016-08-14T22:00:00Z" year="2016"/>
+      <home alias="BOP" id="52daa388-3078-441c-b07b-c15af8bb07ed" name="Bay of Plenty" score="38">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="24"/>
+        </scoring>
+      </home>
+      <away alias="MAN" id="e095d4fb-d287-4b80-8c4e-3481c70c6651" name="Manawatu" score="33">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="19"/>
+        </scoring>
+      </away>
+      <venue capacity="19800" city="Mount Maunganui South" country="New Zealand" id="ce66afaf-af50-4325-bc35-a4fe15064c35" latitude="-37.685" longitude="176.226111" name="Baypark Stadium"/>
+    </match>
+    <match coverage="2" id="f692ce4a-0fb4-44fe-9835-c13b0b538ec4" period="" scheduled="2016-10-09T10:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="LOU" id="3962b905-c91b-4728-b6b8-1ae52f58c0a7" name="Lyon Olympique" score="27">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="SEC" id="cf0eae6b-70bc-4541-915d-5f0916acf082" name="Section Paloise" score="22">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="8000" city="Lyon" country="France" id="8c4fd0f5-d647-4a7a-a6b1-1485ed866e6f" latitude="45.721328" longitude="4.876014" name="Matmut Stadium"/>
+    </match>
+    <match coverage="2" id="e1e5a10b-371d-4bb4-8f76-b80c3f4bea04" period="" scheduled="2016-10-09T12:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2017-05-31T21:59:59Z" id="39355ab3-a57c-4726-bc7b-7a3bca4dc84e" name="Pro D2 16/17" start="2016-08-24T22:00:00Z" year="2016"/>
+      <home alias="AGE" id="76cf514f-b2be-4035-bbcc-33aee47e9a01" name="Agen" score="40">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="28"/>
+        </scoring>
+      </home>
+      <away alias="AUR" id="fa80ee2c-7d3e-4ce8-b698-07a95099f39e" name="Aurillacois" score="27">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="15"/>
+        </scoring>
+      </away>
+      <venue capacity="14000" city="Agen" country="France" id="64b5a2d3-6076-42d9-980b-9f57252f0b61" latitude="44.1925" longitude="0.620556" name="Stade Armandie"/>
+    </match>
+    <match coverage="2" id="578b6d6e-fea0-4902-9f07-9d7c1ac14fb6" period="" scheduled="2016-10-09T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2017-06-05T21:59:59Z" id="c05faa6e-1e41-4719-b706-1675730d7d44" name="English Premiership 16/17" start="2016-09-01T22:00:00Z" year="2016"/>
+      <home alias="SAR" id="a4d33669-9e99-4626-a811-126bf8e7d52b" name="Saracens" score="30">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="17"/>
+        </scoring>
+      </home>
+      <away alias="WAS" id="bb42f448-b477-450c-a617-8b647311b390" name="Wasps" score="14">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue city="London" country="England" id="d90173ee-af2d-4eca-b23e-ae36e9f38b3d" latitude="51.603506" longitude="-0.223642" name="Allianz Park"/>
+    </match>
+    <match coverage="2" id="252da845-e3e2-4b77-9253-a722e3092545" period="" scheduled="2016-10-09T14:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2017-06-26T21:59:59Z" id="3c0abfe3-2c1d-467e-81b2-53e16303d324" name="Top 14 16/17" start="2016-08-18T22:00:00Z" year="2016"/>
+      <home alias="CLE" id="961ac156-ff5c-4e7e-ae0d-bb09296e0576" name="Clermont" score="29">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="9"/>
+        </scoring>
+      </home>
+      <away alias="TOU" id="adc00c44-4e81-4b29-840e-7b9c1469db9e" name="Toulousain" score="25">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="13"/>
+        </scoring>
+      </away>
+      <venue capacity="16610" city="Clermont-Ferrand" country="France" id="18abe33a-501d-424d-b99e-8cfb1438b949" latitude="45.789444" longitude="3.106111" name="Stade Marcel-Michelin"/>
+    </match>
+  </matches>
+</boxscore>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><boxscore xmlns="http://feed.elasticstats.com/schema/rugby/v1/matches-boxscore.xsd" generated="2017-08-13T13:20:49Z">
+  <matches>
+    <match coverage="2" id="edce99e8-a632-42de-b762-3d963ef90f6f" period="" scheduled="2016-02-21T13:25:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="18680795-85bd-4411-bb8d-62cc7d6fc57e" name="Pro D2"/>
+      <season end="2016-06-13T21:59:59Z" id="bc9d38d6-cf93-4f7e-ac46-9d9e0827e8df" name="Pro D2 15/16" start="2015-08-19T22:00:00Z" year="2015"/>
+      <home alias="BIA" id="dc6baea6-a48d-4aeb-887c-1efd20b8b061" name="Biarritz" score="27">
+        <scoring>
+          <period number="1" points="13"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="PER" id="277e7c72-a7cc-4c7d-8234-cd9742eacadc" name="Perpignan" score="21">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue capacity="15000" city="Biarritz" country="France" id="1b0a87a7-63fa-49dd-9d87-168e99c1e4b4" latitude="43.48183" longitude="-1.53769" name="Parc des Sports d'Aguilera"/>
+    </match>
+    <match coverage="3" id="2d8cbac8-02da-49c9-a906-f982a6958771" period="" scheduled="2016-02-21T14:00:00Z" status="unknown">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2016-05-29T21:59:59Z" id="05c71fe1-12c2-42f6-adec-83ccc4c5c1c4" name="RFL League 1 Cup 2016" start="2016-02-19T23:00:00Z" year="2016"/>
+      <home alias="CBE" id="6196397f-7e8f-4e92-be89-1a29f8d05e3b" name="Bears" score="24">
+        <scoring>
+        </scoring>
+      </home>
+      <away alias="GAG" id="ad782a3f-85c9-48b1-8564-e7d9c4c7f017" name="All Golds" score="48">
+        <scoring>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="f45bdd2e-b249-4370-9a75-1d2c9525f6ee" period="" scheduled="2016-02-21T14:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="f0574a50-8b4e-48a1-899d-539f1fd1d4fc" name="Eccellenza"/>
+      <season end="2016-06-05T21:59:59Z" id="1afc1910-4cab-4ed3-9283-a7ca01ab8917" name="Eccellenza 15/16" start="2015-10-08T22:00:00Z" year="2015"/>
+      <home alias="VIA" id="17d7ec6e-9360-4529-863b-a88c3f38f0b5" name="Viadana" score="19">
+        <scoring>
+          <period number="1" points="16"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="MOG" id="04b8cdee-38b5-4df8-bad2-70070a7f91bd" name="Mogliano" score="24">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue capacity="6000" city="Viadana" country="Italy" id="be309049-be45-4d81-b532-8071800e4b08" latitude="44.934015" longitude="10.517757" name="Stadio Luigi Zaffanella"/>
+    </match>
+    <match coverage="3" id="be46e810-4e67-4fdc-af10-7e58ef4bf574" period="" scheduled="2016-02-21T14:30:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2016-05-29T21:59:59Z" id="05c71fe1-12c2-42f6-adec-83ccc4c5c1c4" name="RFL League 1 Cup 2016" start="2016-02-19T23:00:00Z" year="2016"/>
+      <home alias="OXF" id="43b7aa94-2f74-45de-9bb3-56cfb263e4d1" name="Oxford" score="34">
+        <scoring>
+        </scoring>
+      </home>
+      <away alias="HEM" id="515375ee-e8c7-4ddc-8164-37a1da6ce1bd" name="Stags" score="12">
+        <scoring>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="d23773b7-723c-46a3-af22-ff2e4516325b" period="" scheduled="2016-02-21T14:30:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="72164de2-c2cd-42d8-8596-66bcf45d4170" name="Pro 12"/>
+      <season end="2016-06-05T21:59:59Z" id="ea65afbf-a4f0-447a-8ef7-b285125507a9" name="Pro 12 15/16" start="2015-09-03T22:00:00Z" year="2015"/>
+      <home alias="ULS" id="852b1dd7-74fa-4915-bdc5-eb5e60ea1b74" name="Ulster" score="20">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="3"/>
+        </scoring>
+      </home>
+      <away alias="SCA" id="e3c0d780-460b-44cf-b126-d5dba29b2e51" name="Scarlets" score="21">
+        <scoring>
+          <period number="1" points="15"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue city="Belfast" country="Northern Ireland" id="ddcbfd3b-5b47-43b7-be08-cc023553257b" latitude="54.57658" longitude="-5.904423" name="Ravenhill"/>
+    </match>
+    <match coverage="3" id="134753ad-1772-41ce-b725-548192b4f4de" period="" scheduled="2016-02-21T15:00:00Z" status="unknown">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2016-05-29T21:59:59Z" id="05c71fe1-12c2-42f6-adec-83ccc4c5c1c4" name="RFL League 1 Cup 2016" start="2016-02-19T23:00:00Z" year="2016"/>
+      <home alias="HUN" id="7d6482d4-dda2-43f4-8a99-8cd33c31dbc7" name="Hunslet" score="4">
+        <scoring>
+        </scoring>
+      </home>
+      <away alias="YCK" id="4c356fbb-3258-4298-8576-9567e24362a4" name="York City" score="24">
+        <scoring>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="22abe47b-9aaa-4e93-904f-ee105227942f" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="NCF" id="eb1b5796-9e21-4796-950d-957a6965f3ad" name="Newcastle" score="26">
+        <scoring>
+          <period number="1" points="20"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="NHA" id="2e31b0db-cbad-4580-9adb-8a92f586cb17" name="Northampton" score="25">
+        <scoring>
+          <period number="1" points="11"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </away>
+      <venue city="Newcastle upon Tyne" country="England" id="57c6ffba-6ac1-4801-8197-2141f85565d2" latitude="55.018611" longitude="-1.672222" name="Kingston Park"/>
+    </match>
+    <match coverage="2" id="4ea4acc5-1ecb-454a-a7cf-f7699ae08962" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="4b87f74e-5c7b-4f44-937d-adcf6a88b231" name="Super League"/>
+      <season end="2016-10-08T21:59:59Z" id="ef935f42-a9d9-4b1b-b278-f98f6e5de942" name="Super League 2016" start="2016-02-03T23:00:00Z" year="2016"/>
+      <home alias="HKR" id="156ddc29-5613-43d8-ba3d-21a5f1422a1f" name="Hull Kingston" score="12">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="4"/>
+        </scoring>
+      </home>
+      <away alias="WAK" id="ac6660cb-8c3e-4f89-b0c3-57f7877403f6" name="Wakefield" score="14">
+        <scoring>
+          <period number="1" points="12"/>
+          <period number="2" points="2"/>
+        </scoring>
+      </away>
+      <venue city="Hull" country="England" id="624467c2-a8c4-4dc1-9b26-e740a9f836c6" latitude="53.754036" longitude="-0.264805" name="KC Lightstream Stadium"/>
+    </match>
+    <match coverage="2" id="80196525-4813-4596-b26a-5b705dcae5cd" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="WKT" id="10f566d0-6aa2-4237-bd02-6475739d9f90" name="Workington" score="0">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </home>
+      <away alias="HAL" id="d302c4d2-6ac8-4576-8f35-3b66302708e9" name="Halifax" score="20">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="12"/>
+        </scoring>
+      </away>
+      <venue capacity="10000" city="Workington" country="England" id="58fb5c03-88c6-477f-9601-53e07f62dec1" name="Derwent Park"/>
+    </match>
+    <match coverage="2" id="b1e89778-b935-4c8f-a2ad-d9799ff91639" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="OLH" id="ffd538c6-a4b1-4d2b-aefa-3615919ecbd3" name="Oldham" score="38">
+        <scoring>
+          <period number="1" points="24"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="DBR" id="f2fecddd-9889-47f4-9ba4-397a80fb82c3" name="Dewsbury" score="16">
+        <scoring>
+          <period number="1" points="0"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="1500" city="Oldham" country="England" id="398d8003-1bd6-4d14-b5d8-7b7256e4bf22" name="Whitebank"/>
+    </match>
+    <match coverage="3" id="bcdec96e-b44c-47de-9299-958564f520ef" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2016-05-29T21:59:59Z" id="05c71fe1-12c2-42f6-adec-83ccc4c5c1c4" name="RFL League 1 Cup 2016" start="2016-02-19T23:00:00Z" year="2016"/>
+      <home alias="DCR" id="622de223-3814-4928-b87f-9d13fdb1a76e" name="Doncaster" score="35">
+        <scoring>
+        </scoring>
+      </home>
+      <away alias="NWC" id="8447df1e-dc47-4837-82c7-ba34b900567d" name="Crusaders" score="28">
+        <scoring>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+    <match coverage="2" id="cabbdbd2-3be4-4430-8280-1e99120033a0" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="BBD" id="f55d33da-225e-4c7e-b2c1-8943c8321f5b" name="Batley" score="20">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="14"/>
+        </scoring>
+      </home>
+      <away alias="SFE" id="a6184a0b-7274-4839-8722-d04aeeb65734" name="Sheffield" score="8">
+        <scoring>
+          <period number="1" points="8"/>
+          <period number="2" points="0"/>
+        </scoring>
+      </away>
+      <venue capacity="7500" city="Batley" country="England" id="07800cb1-06ef-4cdb-b6e4-9b361eeb0e1c" name="Loverugbyleague.com Stadium"/>
+    </match>
+    <match coverage="2" id="ce7c7dbe-f90e-4133-8ce2-92b55ba548c6" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="6db01793-299d-4283-930f-35c2f796fee4" name="English Premiership"/>
+      <season end="2016-05-31T21:59:59Z" id="3a380038-6536-4b85-a3e1-b6f328bd3002" name="English Premiership 15/16" start="2015-10-15T22:00:00Z" year="2015"/>
+      <home alias="LOI" id="10fb7561-94de-407d-9f32-39a5af5171ac" name="London Irish" score="15">
+        <scoring>
+          <period number="1" points="7"/>
+          <period number="2" points="8"/>
+        </scoring>
+      </home>
+      <away alias="EXE" id="9d1f2e01-e5a3-44cd-8e2c-859a97165f1b" name="Exeter" score="22">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="16"/>
+        </scoring>
+      </away>
+      <venue capacity="24161" city="Reading" country="England" id="60e8ac33-a25c-40f4-9d00-e8117eb3857b" latitude="51.422222" longitude="-0.982778" name="Madejski Stadium"/>
+    </match>
+    <match coverage="2" id="de65a479-06bf-41e0-9125-1d069d423b01" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="e359e073-ff03-4d60-ba10-e025f0edc6e5" name="RFL Championship"/>
+      <season end="2016-10-02T21:59:59Z" id="ad477af8-b4db-461a-a34d-b56412797d9b" name="RFL Championship 2016" start="2016-02-06T23:00:00Z" year="2016"/>
+      <home alias="LCT" id="1df3ef39-3940-4c82-b852-db439cb79a71" name="Leigh" score="24">
+        <scoring>
+          <period number="1" points="6"/>
+          <period number="2" points="18"/>
+        </scoring>
+      </home>
+      <away alias="LON" id="2304459f-b802-4217-8cb9-cae3697c614f" name="London" score="20">
+        <scoring>
+          <period number="1" points="14"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </away>
+      <venue capacity="11000" city="Leigh" country="England" id="17259e74-1a38-4c44-8baf-6deafe428e30" name="Leigh Sports Village"/>
+    </match>
+    <match coverage="2" id="deea0e6d-8271-460d-b2ae-84e95ecf798c" period="" scheduled="2016-02-21T15:00:00Z" status="closed">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="4b87f74e-5c7b-4f44-937d-adcf6a88b231" name="Super League"/>
+      <season end="2016-10-08T21:59:59Z" id="ef935f42-a9d9-4b1b-b278-f98f6e5de942" name="Super League 2016" start="2016-02-03T23:00:00Z" year="2016"/>
+      <home alias="SAL" id="6d1753c9-281e-4c83-9915-e25cadd65753" name="Salford" score="28">
+        <scoring>
+          <period number="1" points="22"/>
+          <period number="2" points="6"/>
+        </scoring>
+      </home>
+      <away alias="WID" id="98d6b173-f11a-4111-97ac-e0e7815f7abb" name="Widnes" score="20">
+        <scoring>
+          <period number="1" points="10"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </away>
+      <venue city="Manchester" country="England" id="d4f5816f-3154-4e77-90a3-b431160cbdf6" latitude="53.468533" longitude="-2.378887" name="The AJ Bell Stadium"/>
+    </match>
+    <match coverage="2" id="55778f7b-3a73-4411-a79e-7f15e7860830" period="" scheduled="2016-02-21T15:15:00Z" status="closed">
+      <league id="92828466-f9d7-47d8-bc0a-3c97e6a91ee8" name="Rugby Union"/>
+      <tournament id="82fafeb4-4be2-49bc-898e-2466863f9808" name="Top 14"/>
+      <season end="2016-06-25T21:59:59Z" id="3017466a-988f-4885-bc25-e637a4d83545" name="Top 14 15/16" start="2015-08-20T22:00:00Z" year="2015"/>
+      <home alias="OYO" id="fb2b3fa4-1e8e-4b92-914a-7e6cefbe2845" name="Oyonnax" score="13">
+        <scoring>
+          <period number="1" points="3"/>
+          <period number="2" points="10"/>
+        </scoring>
+      </home>
+      <away alias="RCT" id="e30aadb2-7dfd-47f6-873d-359eba083fc6" name="Toulon" score="44">
+        <scoring>
+          <period number="1" points="17"/>
+          <period number="2" points="27"/>
+        </scoring>
+      </away>
+      <venue capacity="6000" city="Oyonnax" country="France" id="5ac2d96e-c4ad-4492-b0ee-35c2fa6cb69e" latitude="46.253633" longitude="5.644844" name="Stade Charles-Mathon"/>
+    </match>
+    <match coverage="3" id="99b8d90a-d45d-4751-9613-91ae23bc67fa" period="" scheduled="2016-02-21T15:30:00Z" status="unknown">
+      <league id="d5322a9b-0d82-4f93-8079-bb3ec17e53e0" name="Rugby League"/>
+      <tournament id="8d0fb82e-eaa8-426b-affc-53b3cb1886a1" name="RFL League 1 Cup"/>
+      <season end="2016-05-29T21:59:59Z" id="05c71fe1-12c2-42f6-adec-83ccc4c5c1c4" name="RFL League 1 Cup 2016" start="2016-02-19T23:00:00Z" year="2016"/>
+      <home alias="BR" id="33bc9bbc-4a5b-482d-b3ec-0a563b0c14cc" name="Barrow Raiders" score="4">
+        <scoring>
+        </scoring>
+      </home>
+      <away alias="RDH" id="e09165fb-4a03-4b41-997b-5bb809bf9107" name="Rochdale" score="14">
+        <scoring>
+        </scoring>
+      </away>
+      <venue id="8e0b89d7-b4c4-4803-ac3a-ba0c77939fd5"/>
+    </match>
+  </matches>
+</boxscore>
